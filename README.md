@@ -8,7 +8,7 @@ I’m Ricardo Ibarra-Gil, currently a Graduate student of Masters in Public Poli
 ## What I hope to learn
 I hope to learn on how to use GIS collaboratively: creating, editing and mantaining data in a team. 
 
-I am also interested in exploring more data science tools withing GIS.
+I am also interested in diving deeper into data science with GIS. Last year, a big surprise to me was the wide range of data science applications out there, so I am interested in exploring it further.
 
 Additionally, one of the aspects that I like less about GIS its click-intensive nature, so I am interersted in learning how to integrate GIS with Python, to make it more programming-like.
 
