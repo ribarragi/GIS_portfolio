@@ -116,10 +116,23 @@ The project includes the <b>following activities and deliverables</b>. The table
 <img class="center" src="assets/Color_palette_teleton.png" atl="Teleton current map"  width="680" height="320">
 <br>
 
-<h2>Map</h2>
-<img class="center" src="assets/Teleton_currentMap.png" atl="Teleton current map"  width="680" height="320">
+<h2>Finished Map</h2>
+<h3>The following maps shows the 22 centers located all across Mexico</h3>
+(Note: I could not make the customized icon work when exporting the kml :(, it kept defaulting to the white drop)<br>
+<img class="center" src="assets/Teleton_map_zoom1.png" atl="Teleton current map"  width="580" height="320">
 <br>
+<h3>This is a zoom to the central part of the coutry, where Teleton has four rehabilitation centers</h3>
+<img class="center" src="assets/Teleton_map_zoom2.png" atl="Teleton current map"  width="380" height="300">
+<br>
+<h3>This is a zoom to Mexico City, specifically to Teleton central office and largest rehabilitation center</h3>
+<img class="center" src="assets/Teleton_map_zoom3.png" atl="Teleton current map"  width="380" height="310">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <h2>Lookup table</h2>
 <br>
@@ -129,6 +142,10 @@ The project includes the <b>following activities and deliverables</b>. The table
 Download JSON file --> <a href="https://github.com/ribarragi/GIS_portfolio/blob/ceac568543e8ce0d666d2eadfe059c0db30550ed/assets/Teleton_mapstyle.json"> HERE </a>
 
 <br>
+
+<h2>Link to the map</h2>
+
+https://ribarragi.github.io/GIS_portfolio/google_map_style_teleton.html
 
 </body>
 </html>
