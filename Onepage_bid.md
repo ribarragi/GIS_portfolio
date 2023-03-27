@@ -135,7 +135,7 @@ Based on the organization image and style, I selected the following color palett
 <img class="center" src="assets/Teleton_map_zoom2.png" atl="Teleton current map"  width="480" height="400">
 <br>
 <h3>This is a zoom to Mexico City, specifically to Teleton central office and largest rehabilitation center</h3>
-<img class="center" src="assets/Teleton_map_zoom3.png" atl="Teleton current map"  width="480" height="380">
+<img class="center" src="assets/Teleton_map_zoom3.png" atl="Teleton current map"  width="480" height="360">
 
 <br>
 
