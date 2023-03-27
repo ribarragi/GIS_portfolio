@@ -6,6 +6,11 @@ table,  {
 table thead, th { 
   border-top: 1px solid #000; 
   }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 <body>
 
@@ -78,16 +83,30 @@ The project includes the following deliverables and time and cost estimates:
     <td>Algo2</td>
   </tr>
   <tr>
-    <th>Date</th>
-    <th>Task - description</th>
-    <th>Hours / cost (15 min increments) estimate</th>
-    <th>Hours / cost (15 min increments) actual</th>
+    <th>Total</th>
+    <th></th>
+    <th>No.</th>
+    <th>No.</th>
   </tr>
 </table>
 
-Custom palette
+
+<h1>Work developed</h1>
+
+<h2>Color palette</h2>
 
 
+
+<h2>Map</h2>
+<img class="center" src="assets/Teleton_currentMap.png" atl="Teleton current map"  width="680" height="320">
+
+
+
+<h2>Lookup table</h2>
+
+
+<h2>JSON file</h2>
+Download JSON file --> <a href="Teleton_mapstyle.json"</a>
 
 </body>
 </html>
