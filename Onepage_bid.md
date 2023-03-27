@@ -113,9 +113,9 @@ The project includes the <b>following activities and deliverables</b>. The table
 
 <br>
 <h2>Color palette</h2>
-
-
+<img class="center" src="assets/Color_palette_teleton.png" atl="Teleton current map"  width="680" height="320">
 <br>
+
 <h2>Map</h2>
 <img class="center" src="assets/Teleton_currentMap.png" atl="Teleton current map"  width="680" height="320">
 <br>
