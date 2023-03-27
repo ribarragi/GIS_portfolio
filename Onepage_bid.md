@@ -120,7 +120,7 @@ I also had some troubles with the exported layer as a kml, as I was not able to 
 <h1>Work developed</h1>
 <h2>Color palette</h2>
 Based on the organization image and style, I selected the following color palette to customize their basemap:
-<img class="center" src="assets/Color_palette_teleton.png" atl="Teleton current map"  width="680" height="320">
+<img class="center" src="assets/Color_palette_teleton.png" atl="Teleton current map"  width="700" height="360">
 <br>
 
 <h2>Finished Map</h2>
