@@ -11,10 +11,11 @@ table thead, th {
 
 <h1>One page bid to design a map for website</h1>
 
-The organization is Teleton
+The organization requesting a proposal is Teleton: Mexican non profit that seeks to help children with disabilities, cancer and autism. It offers quality care and rehabilitation in over then 22 facilities all across Mexico.
+
 [logo]
 
-This is their website current style, and the map they currently use to show the users hwere their rehablitation centers are
+This is their [website](https://teleton.org/) current style, and the map they currently use to show the users hwere their rehablitation centers are
 
 [screen shot1]
 [screen shot2]
@@ -84,7 +85,7 @@ The project includes the following deliverables and time and cost estimates:
   </tr>
 </table>
 
-
+Custom palette
 
 
 
