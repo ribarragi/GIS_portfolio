@@ -109,6 +109,7 @@ The project includes the <b>following activities and deliverables</b>. The table
 Some comments and thoughts about going from the estimates to the actual time of execution:
 In all cases I overestimated the time it would take me to complete each of the tasks; however, I do think that the level of depth that I went into each of them may not be the ideal if I were to actually deliver this an NGO. For example, the activities whose actual time have an asteriscs are those that I think I could have spent more time exploring the tools, and creating something more tailored to the client, and making sure that everyithin is set up to work propoerly (for example, the API credentials, I am not 100% sure they are properly setup even though I did secure them, but I would feel more comfortable having spent more time in understanding how they work).
 <br>
+<br>
 Additionally, I was surprised by the relatively low estimate that I ended up with ($950), but again, I do think that it has to do with how much in depth I can go with each of these activities.
 
 <br>
@@ -123,13 +124,13 @@ Based on the organization image and style, I selected the following color palett
 <h2>Finished Map</h2>
 <h3>The following maps shows the 22 centers located all across Mexico</h3>
 (Note: I could not make the customized icon work when exporting the kml :(, it kept defaulting to the white drop)<br>
-<img class="center" src="assets/Teleton_map_zoom1.png" atl="Teleton current map"  width="580" height="320">
+<img class="center" src="assets/Teleton_map_zoom1.png" atl="Teleton current map"  width="660" height="440">
 <br>
 <h3>This is a zoom to the central part of the coutry, where Teleton has four rehabilitation centers</h3>
-<img class="center" src="assets/Teleton_map_zoom2.png" atl="Teleton current map"  width="380" height="300">
+<img class="center" src="assets/Teleton_map_zoom2.png" atl="Teleton current map"  width="480" height="400">
 <br>
 <h3>This is a zoom to Mexico City, specifically to Teleton central office and largest rehabilitation center</h3>
-<img class="center" src="assets/Teleton_map_zoom3.png" atl="Teleton current map"  width="380" height="310">
+<img class="center" src="assets/Teleton_map_zoom3.png" atl="Teleton current map"  width="480" height="380">
 
 <br>
 
