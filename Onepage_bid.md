@@ -21,7 +21,7 @@ table thead, th {
 <h1>One page bid to design a map for website</h1>
 
 <img class="float" src="assets/teleton_logo.png" atl="Teleton current map"  width="110" height="100">
-The organization requesting a proposal is <b>Teleton</b>: a Mexican non profit that seeks to help children with disabilities, cancer and autism. It offers quality care and rehabilitation in over then 22 facilities all across Mexico.
+The organization requesting a proposal is <b>Teleton</b>: a Mexican non profit that seeks to help children with disabilities, cancer and autism. It offers quality care and rehabilitation in over than 22 facilities all across Mexico.
 
 <br>
 <br>
