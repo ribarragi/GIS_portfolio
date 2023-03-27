@@ -135,6 +135,7 @@ The project includes the <b>following activities and deliverables</b>. The table
 <br>
 <br>
 <h2>Lookup table</h2>
+<img class="center" src="assets/Teleton_Lookup_table.png" atl="Teleton current map"  width="380" height="310">
 <br>
 
 <br>
