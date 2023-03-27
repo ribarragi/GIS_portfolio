@@ -105,16 +105,16 @@ The project includes the <b>following activities and deliverables</b>. The table
     <th>6.0 ($600)</th>
   </tr>
 </table>
-
-i have a couple of thoughts about going from the estimates to the actual time of execution, I have 
+<br>
+Some comments and thoughts about going from the estimates to the actual time of execution:
+In all cases I overestimated the time it would take me to complete each of the tasks; however, I do think that the level of depth that I went into each of them may not be the ideal if I were to actually deliver this an NGO. For example, the activities whose actual time have an asteriscs are those that I think I could have spent more time exploring the tools, and creating something more tailored to the client, and making sure that everyithin is set up to work propoerly (for example, the API credentials, I am not 100% sure they are properly setup even though I did secure them, but I would feel more comfortable having spent more time in understanding how they work).
 
 <br>
 <br>
 <h1>Work developed</h1>
-
-
 <br>
 <h2>Color palette</h2>
+Based on the organization image and style, I selected the following color palette to customize their basemap:
 <img class="center" src="assets/Color_palette_teleton.png" atl="Teleton current map"  width="680" height="320">
 <br>
 
@@ -130,14 +130,15 @@ i have a couple of thoughts about going from the estimates to the actual time of
 <img class="center" src="assets/Teleton_map_zoom3.png" atl="Teleton current map"  width="380" height="310">
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
+<h2>Link to the map</h2>
+The map can be accessed and 
+https://ribarragi.github.io/GIS_portfolio/google_map_style_teleton.html
 <br>
 <br>
 <h2>Lookup table</h2>
-<img class="center" src="assets/Teleton_Lookup_table.png" atl="Teleton current map"  width="380" height="310">
+The following lookup table summarizes the styles used for the basemap:
+<img class="center" src="assets/Teleton_Lookup_table.png" atl="Teleton current map"  width="400" height="380">
 <br>
 
 <br>
@@ -146,9 +147,6 @@ Download JSON file --> <a href="https://github.com/ribarragi/GIS_portfolio/blob/
 
 <br>
 
-<h2>Link to the map</h2>
-
-https://ribarragi.github.io/GIS_portfolio/google_map_style_teleton.html
 
 </body>
 </html>
