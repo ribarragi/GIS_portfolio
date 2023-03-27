@@ -111,7 +111,10 @@ In all cases I overestimated the time it would take me to complete each of the t
 <br>
 <br>
 Additionally, I was surprised by the relatively low estimate that I ended up with ($950), but again, I do think that it has to do with how much in depth I can go with each of these activities.
-
+<br>
+<br>
+I also had some troubles with the exported layer as a kml, as I was not able to keep my customized icons. If I were to include time for debugging these kind of errors, then the actual time would definetely go up.
+<br>
 <br>
 <br>
 <h1>Work developed</h1>
