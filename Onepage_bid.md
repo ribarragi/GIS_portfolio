@@ -132,8 +132,8 @@ Based on the organization image and style, I selected the following color palett
 <br>
 
 <h2>Link to the map</h2>
-The map can be accessed and 
-https://ribarragi.github.io/GIS_portfolio/google_map_style_teleton.html
+The map can be accessed and interacted with in the following link --> <a href="https://ribarragi.github.io/GIS_portfolio/google_map_style_teleton.html">MAP</a>
+
 <br>
 <br>
 <h2>Lookup table</h2>
