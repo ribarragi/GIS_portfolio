@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Untitled layer</name>
-    <Style id="icon-1682-9C27B0-nodesc-normal">
+    <Style id="icon-1639-9C27B0-nodesc-normal">
       <IconStyle>
         <color>ffb0279c</color>
         <scale>1</scale>
@@ -17,7 +17,7 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="icon-1682-9C27B0-nodesc-highlight">
+    <Style id="icon-1639-9C27B0-nodesc-highlight">
       <IconStyle>
         <color>ffb0279c</color>
         <scale>1</scale>
@@ -32,19 +32,19 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1682-9C27B0-nodesc">
+    <StyleMap id="icon-1639-9C27B0-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1682-9C27B0-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1639-9C27B0-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1682-9C27B0-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1639-9C27B0-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
       <name>CAT - Centro de Autismo Teleton</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -99.0455675,19.5127778,0
@@ -53,7 +53,7 @@
     </Placemark>
     <Placemark>
       <name>Teletón México</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -99.2024743,19.5697602,0
@@ -62,7 +62,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT Mexico City</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -99.0691706,19.3274997,0
@@ -71,7 +71,7 @@
     </Placemark>
     <Placemark>
       <name>Av Heroico Colegio Militar 600</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -102.2773931,21.8902403,0
@@ -80,7 +80,7 @@
     </Placemark>
     <Placemark>
       <name>Bosque de las Araucarias</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -116.9572785,32.5252201,0
@@ -89,7 +89,7 @@
     </Placemark>
     <Placemark>
       <name>Avenida Golfo de California</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -110.3399884,24.1409088,0
@@ -98,7 +98,7 @@
     </Placemark>
     <Placemark>
       <name>Centro de Rehabilitación e Inclusión Infantil [Teletón Chiapas]</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -93.0766068,16.7492027,0
@@ -107,7 +107,7 @@
     </Placemark>
     <Placemark>
       <name>Boulevard Juan Pablo II</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -106.0273165,28.6237489,0
@@ -116,7 +116,7 @@
     </Placemark>
     <Placemark>
       <name>Blvd. Carlos Abedrop Dávila 2901</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -100.9699329,25.4160919,0
@@ -125,7 +125,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT Gómez Palacio</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -103.4682614,25.5801582,0
@@ -134,7 +134,7 @@
     </Placemark>
     <Placemark>
       <name>Blvd. de las Naciones 2607</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -99.7697936,16.7698539,0
@@ -143,7 +143,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT Hidalgo</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -98.766546,20.0910993,0
@@ -152,7 +152,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT Michoacán</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -101.1824418,19.726021,0
@@ -161,7 +161,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT Neza</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -99.0300087,19.4257137,0
@@ -170,7 +170,7 @@
     </Placemark>
     <Placemark>
       <name>Fundación Teletón México Crit Oaxaca</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -96.7554793,16.9960836,0
@@ -179,7 +179,7 @@
     </Placemark>
     <Placemark>
       <name>Arboledas Del Sur</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -103.3873051,20.617123,0
@@ -188,7 +188,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT TEHUACAN</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -97.4016393,18.4582952,0
@@ -197,7 +197,7 @@
     </Placemark>
     <Placemark>
       <name>Crit, Teletón Cancún</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -86.8399859,21.0946911,0
@@ -206,7 +206,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT Sonora</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -110.9898464,29.0703956,0
@@ -215,7 +215,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT Tamaulipas</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -97.9261717,22.4016255,0
@@ -224,7 +224,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT Veracruz</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -97.4275061,20.5839694,0
@@ -233,7 +233,7 @@
     </Placemark>
     <Placemark>
       <name>CRIT Yucatán</name>
-      <styleUrl>#icon-1682-9C27B0-nodesc</styleUrl>
+      <styleUrl>#icon-1639-9C27B0-nodesc</styleUrl>
       <Point>
         <coordinates>
           -89.6539174,21.0403813,0
