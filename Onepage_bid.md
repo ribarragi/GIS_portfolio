@@ -122,7 +122,7 @@ The project includes the following deliverables and time and cost estimates:
 
 
 <h2>JSON file</h2>
-Download JSON file --> <a href="Teleton_mapstyle.json"</a>
+Download JSON file --> <a href="https://github.com/ribarragi/GIS_portfolio/blob/ceac568543e8ce0d666d2eadfe059c0db30550ed/assets/Teleton_mapstyle.json"</a>
 
 </body>
 </html>
