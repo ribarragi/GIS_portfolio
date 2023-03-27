@@ -16,9 +16,7 @@ Additionally, one of the aspects that I like less about GIS its click-intensive 
 ## Portfolio
 1. [Project 1.](https://ribarragi.github.io/GIS_portfolio/summerfestdemo.html#brew-fest-2023-map) First customized Basemap, themed based on PGH Brew Festival.
 
-2. Project 2...
-
-
+2. Project 2. [Customized maps for Teleton](https://ribarragi.github.io/GIS_portfolio/google_map_style_teleton.html)
 
 
 
