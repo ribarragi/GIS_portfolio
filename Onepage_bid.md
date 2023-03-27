@@ -19,7 +19,9 @@ table thead, th {
 <body>
 
 <h1>One page bid to design a map for website</h1>
-
+<br>
+<br>
+<br>
 <img class="float" src="assets/teleton_logo.png" atl="Teleton current map"  width="110" height="100">
 The organization requesting a proposal is <b>Teleton</b>: a Mexican non profit that seeks to help children with disabilities, cancer and autism. It offers quality care and rehabilitation in over then 22 facilities all across Mexico.
 
@@ -152,6 +154,7 @@ The following lookup table summarizes the styles used for the basemap:
 Download JSON file --> <a href="https://github.com/ribarragi/GIS_portfolio/blob/ceac568543e8ce0d666d2eadfe059c0db30550ed/assets/Teleton_mapstyle.json"> HERE </a>
 
 <br>
+
 
 
 </body>
