@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Give me a name!</title>
+    <title>Teleton maps!</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
@@ -372,10 +372,25 @@
       }
     ]
   }
-] // Add JSON from Map Style Wizard below this line... 
+]
 
 // ..and here's the end of JSON from Style Wizard          
         });
+
+
+// Custom KML file created using Google Maps
+var src = 'https://github.com/ribarragi/GIS_portfolio/blob/02ea77c80a0a1bd56daa6110f0d7ae7236f1b4f5/Teleton_centers.kmz';
+          var kmlLayer = new google.maps.KmlLayer(src, {
+          suppressInfoWindows: true,
+          preserveViewport: false,
+          map: map
+        });
+        kmlLayer.addListener('click', function(event) {
+          var content = event.featureData.infoWindowHtml;
+          var testimonial = document.getElementById('capture');
+          testimonial.innerHTML = content;
+        });
+// End KML
       }
 // Don't forget your API Key below vv
     </script>
