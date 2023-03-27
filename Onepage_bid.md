@@ -118,7 +118,6 @@ I also had some troubles with the exported layer as a kml, as I was not able to 
 <br>
 <br>
 <h1>Work developed</h1>
-<br>
 <h2>Color palette</h2>
 Based on the organization image and style, I selected the following color palette to customize their basemap:
 <img class="center" src="assets/Color_palette_teleton.png" atl="Teleton current map"  width="680" height="320">
@@ -144,6 +143,8 @@ The map can be accessed and interacted with in the following link --> <a href="h
 <br>
 <h2>Lookup table</h2>
 The following lookup table summarizes the styles used for the basemap:
+<br>
+<br>
 <img class="center" src="assets/Teleton_Lookup_table.png" atl="Teleton current map"  width="400" height="380">
 <br>
 
