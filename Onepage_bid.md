@@ -28,19 +28,19 @@ The organization requesting a proposal is <b>Teleton</b>: a Mexican non profit t
 <br>
 <br>
 
-This is their [website](https://teleton.org/) current style,
+This is their <a href="https://teleton.org/">website</a> current style,
 <br>
 <img class="center" src="assets/Teleton_main.png" atl="Teleton current map"  width="580" height="320">
 <br>
 <br>
-This is the map they current use to show the users where their rehablitation centers are:
+This is the <b>map they currently use</b> to show the users where their rehablitation centers are:
 <br>
 <br>
 <img class="center" src="assets/Teleton_currentMap.png" atl="Teleton current map"  width="680" height="320">
 <br>
 <br>
 
-The project includes the following deliverables and time and cost estimates:
+The project includes the <b>following activities and deliverables</b>. The table also includes time and cost estimates:
 <br>
 <br>
 <table style="width:100%">
@@ -106,23 +106,29 @@ The project includes the following deliverables and time and cost estimates:
   </tr>
 </table>
 
-
+<br>
+<br>
 <h1>Work developed</h1>
 
+
+<br>
 <h2>Color palette</h2>
 
 
-
+<br>
 <h2>Map</h2>
 <img class="center" src="assets/Teleton_currentMap.png" atl="Teleton current map"  width="680" height="320">
+<br>
 
-
-
+<br>
 <h2>Lookup table</h2>
+<br>
 
-
+<br>
 <h2>JSON file</h2>
-Download JSON file --> <a href="https://github.com/ribarragi/GIS_portfolio/blob/ceac568543e8ce0d666d2eadfe059c0db30550ed/assets/Teleton_mapstyle.json"</a>
+Download JSON file --> <a href="https://github.com/ribarragi/GIS_portfolio/blob/ceac568543e8ce0d666d2eadfe059c0db30550ed/assets/Teleton_mapstyle.json"> HERE </a>
+
+<br>
 
 </body>
 </html>
