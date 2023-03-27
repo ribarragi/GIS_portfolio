@@ -11,22 +11,38 @@ table thead, th {
   margin-left: auto;
   margin-right: auto;
 }
+.float {
+   float: right;
+   padding-right: 16px;
+}
 </style>
 <body>
 
 <h1>One page bid to design a map for website</h1>
 
-The organization requesting a proposal is Teleton: Mexican non profit that seeks to help children with disabilities, cancer and autism. It offers quality care and rehabilitation in over then 22 facilities all across Mexico.
+<img class="float" src="assets/teleton_logo.png" atl="Teleton current map"  width="110" height="100">
+The organization requesting a proposal is <b>Teleton</b>: a Mexican non profit that seeks to help children with disabilities, cancer and autism. It offers quality care and rehabilitation in over then 22 facilities all across Mexico.
 
-[logo]
+<br>
+<br>
+<br>
+<br>
 
-This is their [website](https://teleton.org/) current style, and the map they currently use to show the users hwere their rehablitation centers are
-
-[screen shot1]
-[screen shot2]
+This is their [website](https://teleton.org/) current style,
+<br>
+<img class="center" src="assets/Teleton_main.png" atl="Teleton current map"  width="580" height="320">
+<br>
+<br>
+This is the map they current use to show the users where their rehablitation centers are:
+<br>
+<br>
+<img class="center" src="assets/Teleton_currentMap.png" atl="Teleton current map"  width="680" height="320">
+<br>
+<br>
 
 The project includes the following deliverables and time and cost estimates:
-
+<br>
+<br>
 <table style="width:100%">
   <tr>
     <th>Date</th>
