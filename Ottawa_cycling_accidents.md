@@ -11,10 +11,6 @@ On the map, the thickness of the links between Syria and the country of residenc
 [image 2: map with only those countries]
 
 
-
-
-<iframe src="https://insights.arcgis.com/#/embed/45f92b7463104814acb272ad83cde132" width="1250" height="1500" frameborder="0"></iframe>
-
-
+<iframe src="https://insights.arcgis.com/#/embed/ff26e9bf6d4040178fe486ed306a8078" width="1250" height="1500" frameborder="0"></iframe>
 
 * Created using content from [site]
