@@ -56,7 +56,7 @@ Lastly, in the density map included next shows the density of cycling accidents.
 <img class="center" src="assets/Density_collisions_cyclists.png" atl="Teleton current map"  width="700" height="480">
 <br>
 
-If scroll down, the interactive version of all previously shown maps and graphs can be accessed
+If scroll down, the <b>interactive</b> version of all previously shown maps and graphs can be accessed
 <br>
 <br>
 
