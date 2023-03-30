@@ -19,7 +19,7 @@ Additionally, one of the aspects that I like less about GIS its click-intensive 
 2. Project 2. [One pager bid](https://ribarragi.github.io/GIS_portfolio/Onepage_bid.html)  
 [Customized map for non profit](https://ribarragi.github.io/GIS_portfolio/google_map_style_teleton.html)  
 
-
+3. Project 3. [Cyclist accidents in Ottawa](https://ribarragi.github.io/GIS_portfolio/Ottawa_cycling_accidents.html)
 
 
 
