@@ -64,6 +64,6 @@ If scroll down, the interactive version of all previously shown maps and graphs 
 <br>
 <br>
 
-<iframe src="https://insights.arcgis.com/#/embed/ff26e9bf6d4040178fe486ed306a8078" width="1250" height="1500" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/ff26e9bf6d4040178fe486ed306a8078" width="1250" height="2580" frameborder="0"></iframe>
 
  <!-- * Created using content from [site] -->
