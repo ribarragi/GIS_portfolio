@@ -39,7 +39,7 @@ The heatmap shows a concentration of collisions involving cyclists mainly in dow
 <br>
 <br>
 
-When divided by Ward, it is interesting to notice that for Sumerset ward, 5.36% of all collisions invovle at least one cyclist. This number is significantly higher than the mean across wards (1.7%)
+When divided by Ward, it is interesting to notice that for Somerset ward, 5.36% of all collisions invovle at least one cyclist. This number is significantly higher than the mean across wards (1.7%)
 <br>
 <br>
 
