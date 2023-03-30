@@ -66,4 +66,8 @@ If scroll down, the interactive version of all previously shown maps and graphs 
 
 <iframe src="https://insights.arcgis.com/#/embed/ff26e9bf6d4040178fe486ed306a8078" width="1250" height="2580" frameborder="0"></iframe>
 
- <!-- * Created using content from [site] -->
+<b>References:</b>
+
+- Materials from “Get Started with ArcGIS Insights | Learn ArcGIS.” Accessed March 30, 2021. https://learn.arcgis.com/en/projects/get-started-with-arcgis-insights/ 
+
+- Created during 90-753 Advanced GIS class, Heinz College, CMU.
