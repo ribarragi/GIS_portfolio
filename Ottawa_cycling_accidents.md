@@ -2,12 +2,6 @@
 
 <html>
 <style>
-table,  {
-  border:2px solid black;
-}
-table thead, th { 
-  border-top: 1px solid #000; 
-  }
 .center {
   display: block;
   margin-left: auto;
@@ -15,14 +9,15 @@ table thead, th {
 }
 .float {
    float: right;
-   padding-right: 16px;
+   padding-right: 6px;
+   padding-left: 12px;
 }
 </style>
 <body>
 
 
 <img class="float" src="assets/Downtown_collisions.png" atl="Teleton current map"  width="580" height="400">
-<br>
+
 <br>
 <br>
 <br>
@@ -43,13 +38,14 @@ When divided by Ward, it is interesting to notice that for Somerset ward, 5.36% 
 <br>
 <br>
 
-<img class="center" src="assets/Ward_collisions.png" atl="Teleton current map"  width="580" height="400">
+<img class="center" src="assets/Ward_collisions.png" atl="Teleton current map"  width="680" height="460">
 <br>
 <br>
 
 In absolute terms (see graph below), this means that there were 4,388 collisions in Somerset from 2015 to 2018, out of which, 235 involved cyclists.
 <br>
-<img class="center" src="assets/Ward_collisions_abs.png" atl="Teleton current map"  width="580" height="400">
+<br>
+<img class="center" src="assets/Ward_collisions_abs.png" atl="Teleton current map"  width="620" height="420">
 <br>
 <br>
 
@@ -57,7 +53,7 @@ Lastly, in the density map included next shows the density of cycling accidents.
 <br>
 <br>
 
-<img class="center" src="assets/Density_collisions_cyclists.png" atl="Teleton current map"  width="580" height="400">
+<img class="center" src="assets/Density_collisions_cyclists.png" atl="Teleton current map"  width="700" height="480">
 <br>
 
 If scroll down, the interactive version of all previously shown maps and graphs can be accessed
