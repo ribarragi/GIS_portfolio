@@ -29,5 +29,5 @@ Finally, this is how the different pharmacies at Mingo sold pills over time. Int
 
 <iframe src="https://insights.arcgis.com/#/embed/a0f2fc57f832483eba635fb5aae21067" width="800" height="580" frameborder="0"></iframe>
 
-You can find the original pulbication from the Washington Post and the source of the data here:<a href="https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/?itid=lk_inline_manual_18">Dilling into the DEA's pain pill database<a/>
+The original pulbication from the Washington Post and the source of the data can be found here:<a href="https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/?itid=lk_inline_manual_18"> Drilling into the DEA's pain pill database<a/>
 
