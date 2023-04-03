@@ -1,7 +1,9 @@
 # Opioid crisis in Mingo, West Virginia
 
-Teh washington Post published inforamtion about opiod pills (oxycodone and ...) distributed in the U.S. <br>
+The washington Post published inforamtion about opiod pills (oxycodone and hydrocodone) distributed in the U.S. <br>
+
 This story shows a brief insight into how the data looks like for Mingo, West Virginia, one of the counties in the U.S. where the distribution and sales of opioid pills increased the most during this period.<br>
+
 The following map shows the locations from which the pharmacies in Mingo county got their pills. It is interesting that they came from all over the Northeast, Midwest and Southeast.
 
 <iframe src="https://insights.arcgis.com/#/embed/5b81ff979ce14526a43044f967407340" width="850" height="750" frameborder="0"></iframe>
