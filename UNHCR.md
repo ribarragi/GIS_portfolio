@@ -17,4 +17,4 @@ Here, you can find an interactive dashboard with data about persons of concern f
 
 
 
-* Created using content from [site]
+* Created using content from ArcGIS tutorial, available <a href="https://learn.arcgis.com/en/projects/understand-the-refugee-crisis-with-link-analysis/">here<a/>
