@@ -4,7 +4,7 @@ The washington Post published inforamtion about opiod pills (oxycodone and hydro
 
 This story shows a brief insight into how the data looks like for Mingo, West Virginia, one of the counties in the U.S. where the distribution and sales of opioid pills increased the most during this period.<br>
 
-The following map shows the locations from which the pharmacies in Mingo county got their pills. It is interesting that they came from all over the Northeast, Midwest and Southeast.
+The following map shows the locations from which the pharmacies in Mingo county got their pills. It is interesting that they came from all over the Northeast, Midwest and Southeast.<br>
 
 <iframe src="https://insights.arcgis.com/#/embed/5b81ff979ce14526a43044f967407340" width="850" height="750" frameborder="0"></iframe>
 
@@ -13,11 +13,11 @@ The most prominent pharmacies that participated in the sale of opioids in Mingo,
 Taking the case of <mark>Strosnider</mark> is intriguing: while it sold 13.1 million doses, this is, 1.9 million doses per year. What makes it even more interesting is that the people those pharmacies serve, calculated by the population residing in an area of 5 miles around the business locations amount to 9,361 people (upper right table).<br>
 If they were only seriving population within 5 miles, this means that every year, each of the 9,361 inhabitants bought a bit more than 202 doses of opioids. Hard to believe. Rather, it is highly probable that these pharmacies where selling painkillers to a wider list of customers, who were perhaps traveling from distant places to get their prescriptions filled. <br>
 
-As can be seen in the lower table, various distribution companies participated in sending million of opioids to pharmacies in Mingo. The most relevant (by number of pills sold) were Actavis Pharma (29.5 million pills), Par Pharmaceutical (5.6 million) and SpecGx (2.1 million).
+As can be seen in the lower table, various distribution companies participated in sending million of opioids to pharmacies in Mingo. The most relevant (by number of pills sold) were Actavis Pharma (29.5 million pills), Par Pharmaceutical (5.6 million) and SpecGx (2.1 million).<br>
 
 <iframe src="https://insights.arcgis.com/#/embed/7fbe280733a3471abfd96ac860271960" width="850" height="780" frameborder="0"></iframe>
 
-The following graph shows that the peak of the opioids pills sales took place between 2006 and 2010, with a peak of 1.6 thousan pills sold in Mingo pharmacies during a single month.
+The following graph shows that the peak of the opioids pills sales took place between 2006 and 2010, with a peak of 1.6 thousan pills sold in Mingo pharmacies during a single month.<br>
 
 <iframe src="https://insights.arcgis.com/#/embed/9984bc4e53f44cc984075196c6bec67d" width="940" height="550" frameborder="0"></iframe>
 
@@ -25,6 +25,9 @@ The following graph shows that the peak of the opioids pills sales took place be
 
 <iframe src="https://insights.arcgis.com/#/embed/712210232fb249ae9d1738d642d8a31a" width="880" height="680" frameborder="0"></iframe> -->
 
-Finally, this is how the different pharmacies at Mingo sold pills over time. Intererstingly, <mark>Strosnider</mark> came early into the business, reaching a peak of 2,938 doses sold in one month (January, 2008) but then abruptly declined after April, 2009 (worth investigating why). Its place was taken by Tug Valley pharmacies, that reached a maximum sales of 2,778 in November, 2009, only to decline to a steady level of approx 1,300 doses per month.
+Finally, this is how the different pharmacies at Mingo sold pills over time. Intererstingly, <mark>Strosnider</mark> came early into the business, reaching a peak of 2,938 doses sold in one month (January, 2008) but then abruptly declined after April, 2009 (worth investigating why). Its place was taken by Tug Valley pharmacies, that reached a maximum sales of 2,778 in November, 2009, only to decline to a steady level of approx 1,300 doses per month.<br>
 
 <iframe src="https://insights.arcgis.com/#/embed/a0f2fc57f832483eba635fb5aae21067" width="800" height="580" frameborder="0"></iframe>
+
+You can find the original pulbication from the Washington Post and the source of the data here:<a href="https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/?itid=lk_inline_manual_18">Dilling into the DEA's pain pill database<a/>
+
