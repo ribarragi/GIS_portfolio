@@ -138,7 +138,7 @@ Alcohol sales in Iowa ...
 he data consists of ...
 
 
-
+<img class="center" src="project_assets/forecasts_county_level.gif" atl="Sapce time cubes for sales in USD"  width="500" height="380">
 
 
 
