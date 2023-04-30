@@ -115,9 +115,12 @@ Next, arcGIS was used to create a more refined analysis. For starters, the follo
 
 <br>
 
-<img class="center" src="project_assets/Layout_volume.png" atl="Sapce time cubes for volume sold"  width="750" height="420">
+<img class="center" src="project_assets/Layout_volume_pop_tract.png" atl="Sapce time cubes for volume sold"  width="750" height="420">
+
+### Comments here
 
 
+<img class="center" src="project_assets/Layout_sum_volume.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
 
 <h1> Section 3. Relationship with health indicators </h1>
 Is there any relationship with CDC’s Alcohol dependency data?
@@ -152,3 +155,9 @@ Tax revenues: Tax Policy Center (Urban Institute & Brookings Institution) https:
 I wanted to create a story map, but after several attemps, I could not load scenes into my ArcGIS online account.
 
 The main overall objective of this project was to explore and <b>EXPLOT?</b> the funcitonalities of time cubes for temporal data in ArcGIS
+
+
+# Assets
+
+All preprocessing code is contained in the following folder...
+All data is available in the follwing drive folder
