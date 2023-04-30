@@ -41,59 +41,61 @@ a:hover{
 </head>
 <body>
 
-# Final project
+<h1> Final project </h1>
 
-
-I wanted to create a story map, but after several attemps, I could not load scenes into my ArcGIS online account.
-
-The main overall objective of this project was to explore and <b>EXPLOT?</b> the funcitonalities of time cubes for temporal data in ArcGIS
-
-# Section 1. Descriptive analytics
+<h1> Section 1. Descriptive analytics </h1>
 What is the overall trend in sales over the past years?
 Are there any patterns?
 
-# Section2. Geo spatial descriptive analysis
+
+Alcohol sales and consumption are two components of Iowa's social and economic landscape. Not only does Iowa produces corn for industrial ethanol (4.5 billion gallons in 2022, contributing with over 25% to total U.S. ethanol production of ~17.5 billion gallons). But it is also home to many breweries, distilleries and wineries.
+
+In Iowa, people spend some 771 million dollars per year in alcoholic beverages, this is around 593.3 dollars per household per year. Iowa is the 37th state in terms of spending on alcohol for human consumption. 
+
+Another part of this story is Iowa's state and local tax revenues that come from alcohol. According to the Alcoholic Beverages Division, this industry generated in 2022  "an all-time record of $150.1 million, an increase of $284,106 over the previous fiscal year. The sales growth generated record liquor net profits of $120.6 million, which will be used to support essential state programs and services." However, when compared to the rest of the country, Iowa ranks 42th.
+<br>
+
+
+
+
+
+<h1> Section2. Geo spatial descriptive analysis </h1>
 Which stores have the highest and lowest sales?
 Is there a geographical pattern in the data?
 Are there any clusters or hotspots of high/low sales?
 What factors are contributing to these hot/cold spots?
 
-# Section 3. Relationship with health indicators
+<h1> Section 3. Relationship with health indicators </h1>
 Is there any relationship with CDC’s Alcohol dependency data?
 Is there any relationship with other health metrics?
 
-# Section 4. Predict future sales
+<h1> Section 4. Predict future sales </h1>
 Is it possible to predict future sales of alcohol using ?
 What factors should we consider to predict it?
 What factors turn out to be the most relevant for the predictions?
 
 
 
-## Section 1. Descriptive analytics
+<h2> Section 1. Descriptive analytics </h2>
 Alcohol sales in Iowa ...
 he data consists of ...
 
 
-Alcohol sales and consumption are aspects of Iowa's social and economic landscape. The state's breweries, wineries, and distilleries have been a part of Iowa's culture for centuries, contributing to the state's tourism and economic growth. However, the consumption of alcohol also poses significant public health concerns, with excessive drinking and alcohol-related accidents being prevalent issues in Iowa. Understanding the impact of alcohol sales and consumption on Iowa's economy, society, and public health is crucial in addressing these concerns.
-
-Alcohol sales and consumption have long been a part of American culture, and Iowa is no exception. The state is known for its breweries and wineries, and the alcohol industry plays a significant role in the state's economy. According to the Iowa Alcoholic Beverages Division, Iowa's liquor industry generated $334 million in revenue in the 2021 fiscal year. This revenue is distributed among the state's various stakeholders, including the government, wholesalers, and retailers.
-
-However, the prevalence of alcohol consumption also poses significant public health risks. Iowa has a history of high rates of excessive drinking and alcohol-related deaths, particularly in car accidents. According to the Centers for Disease Control and Prevention, excessive drinking accounts for over 1,100 deaths per year in Iowa, and impaired driving accounts for 26% of all traffic fatalities in the state. These statistics illustrate the importance of understanding the impact of alcohol sales and consumption on public health and safety in Iowa.
-
-The Alcoholic Beverages Division (ABD) generated a significant return on investment to the citizens of Iowa in fiscal year 2022. The amount of sales and revenue generated to the State General Fund was an all-time record of $150.1 million, an increase of $284,106 over the previous fiscal year. The sales growth generated record liquor net profits of $120.6 million, which will be used to support essential state programs and services.
 
 
 
 <iframe src="https://insights.arcgis.com/#/embed/42cc047fc51c457dbabe79e8d5eebad3" width="850" height="2350" frameborder="0"></iframe>
 
 
-* Created using content from ArcGIS tutorial, available <a href="https://learn.arcgis.com/en/projects/understand-the-refugee-crisis-with-link-analysis/">here<a/>
-
-
-
-Link to this site: 
+Link to this site: <a href = "https://ribarragi.github.io/GIS_portfolio/Final_project_report.html" > link </a>
 
 
 Sources:
 
 Tax revenues: Tax Policy Center (Urban Institute & Brookings Institution) https://www.taxpolicycenter.org/statistics/state-and-local-alcohol-tax-revenue
+
+
+<h1>DISCLAIMERS</h1>
+I wanted to create a story map, but after several attemps, I could not load scenes into my ArcGIS online account.
+
+The main overall objective of this project was to explore and <b>EXPLOT?</b> the funcitonalities of time cubes for temporal data in ArcGIS
