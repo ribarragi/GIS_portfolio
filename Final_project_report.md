@@ -88,3 +88,12 @@ The Alcoholic Beverages Division (ABD) generated a significant return on investm
 
 
 * Created using content from ArcGIS tutorial, available <a href="https://learn.arcgis.com/en/projects/understand-the-refugee-crisis-with-link-analysis/">here<a/>
+
+
+
+Link to this site: 
+
+
+Sources:
+
+Tax revenues: Tax Policy Center (Urban Institute & Brookings Institution) https://www.taxpolicycenter.org/statistics/state-and-local-alcohol-tax-revenue
