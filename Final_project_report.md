@@ -18,6 +18,11 @@ img.Photo2 {
    float: right;
    padding-right: 16px;
 }
+img.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 img.Graph {
    float: right;
    padding-right: 4px;
@@ -48,7 +53,7 @@ What is the overall trend in sales over the past years?
 Are there any patterns?
 
 
-Alcohol sales and consumption are two components of Iowa's social and economic landscape. Not only does Iowa produces corn for industrial ethanol (4.5 billion gallons in 2022, contributing with over 25% to total U.S. ethanol production of ~17.5 billion gallons). But it is also home to many breweries, distilleries and wineries.
+Alcohol sales and consumption are two components of Iowa's social and economic landscape. Not only does Iowa produces corn for industrial ethanol (4.5 billion gallons in 2022, contributing with over 25% to total U.S. ethanol production of ~17.5 billion gallons). But it is also home to many breweries, distilleries and wineries. This analysis excludes beer and wine.
 
 In Iowa, people spend some 771 million dollars per year in alcoholic beverages, this is around 593.3 dollars per household per year. Iowa is the 37th state in terms of spending on alcohol for human consumption. 
 
@@ -64,29 +69,22 @@ Over time, Iowans have spent slightly more during recent months in alcohol. Both
 
 
 
-Another piece of information related to alcohol consumption has to do with health indicators. Spcieficially, with CDC's excess fdrinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regard, 
-
-
 
 <br>
 
+Sales of domestic vodka and whisky are the main beverages consumed in the state.
 
-
-
+<iframe src="https://insights.arcgis.com/#/embed/99f95e04cd9e4f1290ab788fafbb31c7" width=550 height=600 frameborder="0"></iframe>
 
 Focusing on sales of alcohol over the state of Iowa, the follwowing raph shows that yearly sales follow a normal seasonal pattern, with annual increases in sales during June and December. 
 
 
 
+If analyzed by county, volume sold concentrates in urban areas, specifically in counties with cities. Des Moines in Polk county, Cedar rapids in Linn county, Waterloo, Davenport and Iowa City in Black Hawk county, Scott county and Johnson county, accordingly. While there are adjustments to be made to some of the variable -and that are adressed in the analysis that follows-, the graphs and maps shown provide a good idea of what, when, how much and where do Iowans consume alcohol. 
+
+
 
 <iframe src="https://insights.arcgis.com/#/embed/b4b6f275a2a444d1990493ddac181c71" width=700  height=650 frameborder="0"></iframe>
-
-
-
-Next, arcGIS was used to create a more refined analysis. For starters, the following graph focuses on data from alcohol stores in Iowa, it displays the amount of liters sold over the numeber of people over 21 years old who live in an area of 4 miles arlund the store. that When focused on the volume of alcohol sold per person over 21 years old. 
-<br>
-
-
 
 
 
@@ -99,6 +97,25 @@ What factors are contributing to these hot/cold spots?
 
 
 
+Another piece of information related to alcohol consumption has to do with health indicators. Spcieficially, with CDC's excess fdrinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regard, it is a bit surprising to note that....
+
+
+<iframe src="https://insights.arcgis.com/#/embed/ca30101f56f042ffaf90a8f38e407b6f" width=820 height=1080 frameborder="0"></iframe>
+
+
+
+
+
+
+
+Next, arcGIS was used to create a more refined analysis. For starters, the following graph focuses on data from alcohol stores in Iowa, it displays the amount of liters sold over the numeber of people over 21 years old who live in an area of 4 miles arlund the store. that When focused on the volume of alcohol sold per person over 21 years old. 
+
+
+
+
+<br>
+
+<img class="center" src="project_assets/Layout_volume.png" atl="Teleton current map"  width="750" height="420">
 
 
 
