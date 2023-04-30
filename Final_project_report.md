@@ -54,20 +54,33 @@ In Iowa, people spend some 771 million dollars per year in alcoholic beverages, 
 
 Another part of this story is Iowa's state and local tax revenues that come from alcohol. According to the Alcoholic Beverages Division, this industry generated in 2022  "an all-time record of $150.1 million, an increase of $284,106 over the previous fiscal year. The sales growth generated record liquor net profits of $120.6 million, which will be used to support essential state programs and services." However, when compared to the rest of the country, Iowa ranks 42th.
 
+<iframe src="https://insights.arcgis.com/#/embed/4b198e5dff234c64a253568b122888d0" width=1050 height=1480 frameborder="0"></iframe>
 
-Finally, another piece of information related to alcohol conpmption has to do with health indicators. Spcieficially, with CDC's excess fdrinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regards...
+
+Over time, Iowans have spent slightly more during recent months in alcohol. Both sales is dollars and in liters of alcohol show a somwehat increasing trend. 
+
+<iframe src="https://insights.arcgis.com/#/embed/824adf10c1d740489e49f1c1e68040cc" width=1000  height=1020 frameborder="0"></iframe>
+
+
+
+
+Another piece of information related to alcohol consumption has to do with health indicators. Spcieficially, with CDC's excess fdrinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regard, 
+
+
+
 <br>
 
 
 
 
 
-
-
-
-<iframe src="https://insights.arcgis.com/#/embed/4b198e5dff234c64a253568b122888d0" width=1050 height=1480 frameborder="0"></iframe>
-
 Focusing on sales of alcohol over the state of Iowa, the follwowing raph shows that yearly sales follow a normal seasonal pattern, with annual increases in sales during June and December. 
+
+
+
+
+<iframe src="https://insights.arcgis.com/#/embed/b4b6f275a2a444d1990493ddac181c71" width=700  height=650 frameborder="0"></iframe>
+
 
 
 Next, arcGIS was used to create a more refined analysis. For starters, the following graph focuses on data from alcohol stores in Iowa, it displays the amount of liters sold over the numeber of people over 21 years old who live in an area of 4 miles arlund the store. that When focused on the volume of alcohol sold per person over 21 years old. 
