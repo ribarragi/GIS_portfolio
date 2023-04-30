@@ -53,7 +53,26 @@ Alcohol sales and consumption are two components of Iowa's social and economic l
 In Iowa, people spend some 771 million dollars per year in alcoholic beverages, this is around 593.3 dollars per household per year. Iowa is the 37th state in terms of spending on alcohol for human consumption. 
 
 Another part of this story is Iowa's state and local tax revenues that come from alcohol. According to the Alcoholic Beverages Division, this industry generated in 2022  "an all-time record of $150.1 million, an increase of $284,106 over the previous fiscal year. The sales growth generated record liquor net profits of $120.6 million, which will be used to support essential state programs and services." However, when compared to the rest of the country, Iowa ranks 42th.
+
+
+Finally, another piece of information related to alcohol conpmption has to do with health indicators. Spcieficially, with CDC's excess fdrinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regards...
 <br>
+
+
+
+
+
+
+
+
+<iframe src="https://insights.arcgis.com/#/embed/4b198e5dff234c64a253568b122888d0" width="100%" height="1480" frameborder="0"></iframe>
+
+Focusing on sales of alcohol over the state of Iowa, the follwowing raph shows that yearly sales follow a normal seasonal pattern, with annual increases in sales during June and December. 
+
+
+Next, arcGIS was used to create a more refined analysis. For starters, the following graph focuses on data from alcohol stores in Iowa, it displays the amount of liters sold over the numeber of people over 21 years old who live in an area of 4 miles arlund the store. that When focused on the volume of alcohol sold per person over 21 years old. 
+<br>
+
 
 
 
@@ -64,6 +83,11 @@ Which stores have the highest and lowest sales?
 Is there a geographical pattern in the data?
 Are there any clusters or hotspots of high/low sales?
 What factors are contributing to these hot/cold spots?
+
+
+
+
+
 
 <h1> Section 3. Relationship with health indicators </h1>
 Is there any relationship with CDC’s Alcohol dependency data?
@@ -84,7 +108,6 @@ he data consists of ...
 
 
 
-<iframe src="https://insights.arcgis.com/#/embed/42cc047fc51c457dbabe79e8d5eebad3" width="850" height="2350" frameborder="0"></iframe>
 
 
 Link to this site: <a href = "https://ribarragi.github.io/GIS_portfolio/Final_project_report.html" > link </a>
