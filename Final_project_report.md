@@ -65,7 +65,7 @@ Finally, another piece of information related to alcohol conpmption has to do wi
 
 
 
-<iframe src="https://insights.arcgis.com/#/embed/4b198e5dff234c64a253568b122888d0" width="100%" height="1480" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/4b198e5dff234c64a253568b122888d0" width=1050 height=1480 frameborder="0"></iframe>
 
 Focusing on sales of alcohol over the state of Iowa, the follwowing raph shows that yearly sales follow a normal seasonal pattern, with annual increases in sales during June and December. 
 
