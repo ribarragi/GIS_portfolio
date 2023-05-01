@@ -41,13 +41,16 @@ a:hover{
   /* opacity: 0.35 */
   color: #e32636
 }
-
+.p2 {
+  font-size: 18px;
+  font-weight: bold;
+}
 </style>
 </head>
 <body>
 
-<h> An Analysis and Forecast of Iowa's Alcohol Sales Implications </h1>
-report for the ...
+<h1><b> An Analysis and Forecast of Iowa's Alcohol Sales Implications </b>
+<p class="p2"> - A report for Iowa’s Alcoholic and Beverages Division - </p2></h1>
 
 <h2> Section 1. Descriptive analytics </h2>
 <!-- What is the overall trend in sales over the past years?<br>
