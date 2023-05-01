@@ -157,6 +157,7 @@ The resulting forecasts (displayed next) have many missing tracts, some of them 
 After these somewaht discouraging results, I decided to do it at the county level. While this implies losing detail on the data, it would allow me to have a complete forecast to evaluate.
 The same space time cubes were built: one for alcohol sales per capita and one for total volume sold, but now aggregated at the county level.
 <br>
+<br>
 
 <img class="center" src="project_assets/Layout_volume_pop_county.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
 <br>
@@ -164,9 +165,31 @@ The same space time cubes were built: one for alcohol sales per capita and one f
 <br>
 <br>
 
-With these new cubes, the following forecast was produced for the next 12 months after the last observation (July 2022 to August 2023):
+With these new cubes, the following gif shows the resulting forecast for the next 12 months after the last observation (July 2022 to August 2023):
 
-<img class="center" src="project_assets/forecasts_county_level.gif" atl="Sapce time cubes for sales in USD"  width="750" height="420">
+<img class="center" src="project_assets/forecasts_county_level.gif" atl="Sapce time cubes for sales in USD"  width="620" height="480">
+<br>
+<br>
+
+The first months after the final datapoint, it seem like the model outputs very low values at first, and then very high. But after a couple of months, the forecast seems more reasonable, expcet for the fact tha many of the counties get a negative forecast (a non allowed value for this variable).
+<br>
+
+While these forecasts do not seem to be very accurate, the experience of working with space time cubes was rewarding. I got a special interest in trying to use other forecasting tools available that also draw into the architecture of space time cubes.
+
+<h1>Conclusions</h1>
+
+The learning curve in understainding how time space cubes work, how to preprocess and sarrange the data and how to create them was a bit steeper than expected. But the concepts are really interesting, and there are plenty of other tools that use subes as input.
+
+I also spent a great deal of time arranging the data to bring it into arcGIS. The original sales data contained over 40 million observations. I had to reduced that, losing some detail in the data, but gaining processing time once it was brought into arcGIS.
+
+I thought it would be easier to intertwine arcGIS Insights and arcGIS Pro, but in the end I couldnt figure out how to share data between them, so Itreated them as separate components of the project.
+
+I think I lost a bit of the narrative and structure of the project due to the time spent in preprocessing, learning the tools and trying to combine Insights and arcGISPro, and when I didnt find a strong relationship between alcohol sales and health related indicators. The original idea was to use the forecasts on alcohol sales (at the census tract level and with monthly observations for the past 6 years), determine a strong relationship with the health related variables (only available at the county level and once a year), and estimate the forecast of the health related variables. But I couldnt either get the complete forecast at the census tract level or establish a strong relationship between the variables.
+
+Another element that cause problems was that it took me a lot of time to create the cubes at the census tract level, because an input for the creation if the cubes is a unique identifier for each tract, which would normally be the FIPS code, however, this identifier must be numeric (less than 5 digits long), so I had to play with the creation of other columns to make this match possible. I think it was in this process where I lost 25% of the census tracts to generate their timespace cubes.
+
+
+
 
 
 Link to this site: <a href = "https://ribarragi.github.io/GIS_portfolio/Final_project_report.html" > link </a>
@@ -182,6 +205,24 @@ Space time cube creation (<a href="https://www.youtube.com/watch?v=1lpCJfKbYLg">
 I wanted to create a story map, but after several attemps, I could not load scenes into my ArcGIS online account.<br>
 
 The main overall objective of this project was to explore and <b>EXPLOT?</b> the funcitonalities of time cubes for temporal data in ArcGIS<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
