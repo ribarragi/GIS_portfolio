@@ -96,9 +96,14 @@ What factors are contributing to these hot/cold spots? -->
 <!-- Is there any relationship with CDC’s Alcohol dependency data?
 Is there any relationship with other health metrics? -->
 
-A first approach to the spatial relationship between alcohol consumption and its effect on health-related variables is shown in the following two maps. Both include a kernel density of the volume of sales in liters. The fisrt map has an underlying choropleth layer with the rate of excess drinking in each county, while the second shows in blue the number of deaths in driving accidents related to alcohol impared driving as a percentage of total deaths in driving accidents. Interestingly enough, some counties with a somewhat high concetration of alcohol sales do not register much excessive drinking (such as Cass and Shelby in the Southwest, or Ottumba and Farifield in the Southeast). 
+A first approach to the spatial relationship between alcohol consumption and its effect on health-related variables is shown in the following two maps. Both include a kernel density of the volume of sales in liters. The fisrt map has an underlying choropleth layer with the rate of excess drinking in each county, while the second shows in blue the number of deaths in driving accidents related to alcohol impared driving as a percentage of total deaths in driving accidents. 
 <br>
+
+Interestingly enough, some counties with a somewhat high concetration of alcohol sales do not register much excessive drinking (such as Cass and Shelby in the Southwest, or Ottumba and Farifield in the Southeast). 
+<br>
+
 Some similar cases appear also in the case of deaths related to impaired driving, in counties such as Waterloo. I think a partial conclusion from this maps could be that we see an expected relationship in most of the cases, but some counties do not exhibit such patterns.
+<br>
 <br>
 
 <p align="center"><iframe src="https://insights.arcgis.com/#/embed/ca30101f56f042ffaf90a8f38e407b6f" width=820 height=1080 frameborder="0"></iframe></p>
@@ -110,6 +115,11 @@ Next, arcGIS was used to create a more refined analysis. For starters, the varia
 
 The next graph shows that the average consumption of alcohol lies around 1.6-1.7 liters per month, and appears to have a pretty stable pattern over the last six years.
 <br>
+<br>
+
+This graph now compares the proportion of deaths due to impaired driving with the volume sold per capit per county. It is surprising not to find a stronger a clearer positive relationship between both variables. 
+<br>
+<br>
 
 <img class="center" src="project_assets/AvgConsumtpion_percapita.png" atl="Sapce time cubes for sales in USD"  width="800" height="300">
 <br>
@@ -118,7 +128,10 @@ The next graph shows that the average consumption of alcohol lies around 1.6-1.7
 <img class="center" src="project_assets/Deaths_and_volume_per_county.png" atl="Sapce time cubes for sales in USD"  width="900" height="400">
 
 
-This is how this variable looks like: on average, 
+<h1> Section 3. Space time cubes and predictions </h1>
+<!-- Is it possible to predict future sales of alcohol using ?
+What factors should we consider to predict it?
+What factors turn out to be the most relevant for the predictions? -->
 
 <br>
 
@@ -154,16 +167,6 @@ Another piece of information related to alcohol consumption has to do with healt
 
 
 
-<h1> Section 3. Space time cubes and predictions </h1>
-Is it possible to predict future sales of alcohol using ?
-What factors should we consider to predict it?
-What factors turn out to be the most relevant for the predictions?
-
-
-
-<h2> Section 1. Descriptive analytics </h2>
-Alcohol sales in Iowa ...
-he data consists of ...
 
 
 
