@@ -46,9 +46,10 @@ a:hover{
 </head>
 <body>
 
-<h1> Final project </h1>
+<h> An Analysis and Forecast of Iowa's Alcohol Sales Implications </h1>
+report for the ...
 
-<h1> Section 1. Descriptive analytics </h1>
+<h2> Section 1. Descriptive analytics </h2>
 <!-- What is the overall trend in sales over the past years?<br>
 Are there any patterns?<br> -->
 
@@ -88,7 +89,7 @@ If analyzed by county, volume sold concentrates in urban areas, specifically in 
 
 <p align="center"><iframe src="https://insights.arcgis.com/#/embed/b4b6f275a2a444d1990493ddac181c71" width=700  height=650 frameborder="0"></iframe></p>
 
-<h1> Section 2. Geo spatial descriptive analysis </h1>
+<h2> Section 2. Geo spatial descriptive analysis </h2>
 <!-- Which stores have the highest and lowest sales?
 Is there a geographical pattern in the data?
 Are there any clusters or hotspots of high/low sales?
@@ -130,7 +131,7 @@ Lastly, the pairwise correlations between the consumption and the health variabl
 
 <img class="center" src="project_assets/Scatter_health_consumption.png" atl="Sapce time cubes for sales in USD"  width="900" height="560">
 
-<h1> Section 3. Space time cubes and predictions </h1>
+<2> Section 3. Space time cubes and predictions </h2>
 <!-- Is it possible to predict future sales of alcohol using ?
 What factors should we consider to predict it?
 What factors turn out to be the most relevant for the predictions? -->
@@ -176,34 +177,38 @@ The first months after the final datapoint, it seem like the model outputs very 
 
 
 
-<h1>Report conclusions</h1>
+<h2>Report conclusions</h2>
+
 1. A weaker than expected relationship betwen the health related metrics (excessive drinking and deaths by alcohol impaired driving, both relative and total) and alcohol sales in the state of Iowa was found.
+<br>
+
 2. The weak relationship could be explained by multiple factors and an indepth analysis would is advisable. Potential explanations include: data limiations (specifically, more granular data for health indicators, and ideally more frequent (monthly)); data on alcohol consumption, not only alcohol sales; other indicators of potential effects of alcohol could help to validate the alcohol consumption data (domestic violence, hepathic diseases, among others)
+<br>
+
 3. While the forecasts have limitations, it would be worth exploring other forecasting tools that also rely on the space time structures created to potentially get better results.
+<br>
+
 4. State and local tax authorities may be interested in studying the optimal alcohol tax rate, as there may be space for increasing it without imapcting demand.
 
 
-<h1>Personal Conclusions</h1>
+<h2>Personal Conclusions</h2>
 
-The learning curve understinding how time space cubes work, how to preprocess and arrange the data and how to create them was a bit steeper than expected. But the concepts are really interesting, and there are plenty of other tools that use subes as input.
+- The learning curve understinding how time space cubes work, how to preprocess and arrange the data and how to create them was a bit steeper than expected. But the concepts are really interesting, and there are plenty of other tools that use subes as input.
 <br>
 
-I also spent a great deal of time arranging the data to bring it into arcGIS. The original sales data contained over 40 million observations. I had to reduced that, losing some detail in the data, but gaining processing time once it was brought into arcGIS.
+- I also spent a great deal of time arranging the data to bring it into arcGIS. The original sales data contained over 40 million observations. I had to reduced that, losing some detail in the data, but gaining processing time once it was brought into arcGIS.
 <br>
 
-I thought it would be easier to intertwine arcGIS Insights and arcGIS Pro, but in the end I couldnt figure out how to share data between them, so Itreated them as separate components of the project.
+- I thought it would be easier to intertwine arcGIS Insights and arcGIS Pro, but in the end I couldnt figure out how to share data between them, so Itreated them as separate components of the project.
 <br>
 
-I think I lost a bit of the narrative and structure of the project due to the time spent in preprocessing, learning the tools and trying to combine Insights and arcGISPro, and when I didnt find a strong relationship between alcohol sales and health related indicators. The original idea was to use the forecasts on alcohol sales (at the census tract level and with monthly observations for the past 6 years), determine a strong relationship with the health related variables (only available at the county level and once a year), and estimate the forecast of the health related variables. But I couldnt either get the complete forecast at the census tract level or establish a strong relationship between the variables.
+- I think I lost a bit of the narrative and structure of the project due to the time spent in preprocessing, learning the tools and trying to combine Insights and arcGISPro, and when I didnt find a strong relationship between alcohol sales and health related indicators. The original idea was to use the forecasts on alcohol sales (at the census tract level and with monthly observations for the past 6 years), determine a strong relationship with the health related variables (only available at the county level and once a year), and estimate the forecast of the health related variables. But I couldnt either get the complete forecast at the census tract level or establish a strong relationship between the variables.
 <br>
 
-While the forecasts do not seem to be very accurate, the experience of working with space time cubes was rewarding. I got a special interest in trying to use other forecasting tools available that also draw into the architecture of space time cubes.
+- While the forecasts do not seem to be very accurate, the experience of working with space time cubes was rewarding. I got a special interest in trying to use other forecasting tools available that also draw into the architecture of space time cubes. 
+<br>
 
-
-Another element that cause problems was that it took me a lot of time to create the cubes at the census tract level, because an input for the creation if the cubes is a unique identifier for each tract, which would normally be the FIPS code, however, this identifier must be numeric (less than 5 digits long), so I had to play with the creation of other columns to make this match possible. I think it was in this process where I lost 25% of the census tracts to generate their timespace cubes.
-
-
-
+- Another element that cause problems was that it took me a lot of time to create the cubes at the census tract level, because an input for the creation if the cubes is a unique identifier for each tract, which would normally be the FIPS code, however, this identifier must be numeric (less than 5 digits long), so I had to play with the creation of other columns to make this match possible. I think it was in this process where I lost 25% of the census tracts to generate their timespace cubes.
 
 
 
