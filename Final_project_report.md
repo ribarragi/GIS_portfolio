@@ -57,7 +57,7 @@ Alcohol sales and consumption are two components of Iowa's social and economic l
 <br>
 In Iowa, people spent around 771 million dollars per year in alcoholic beverages last year, this is, approximately 593.3 dollars per household. Iowa is the 37th state in terms of spending on alcoholic beverages.<br> 
 <br>
-On the tax side of this story (there is always a tax side), Iowa's state and local tax revenues from alcohol generated -in 2022- "an all-time record of $150.1 million, an increase of $284,106 over the previous fiscal year. The sales growth generated record liquor net profits of $120.6 million, which will be used to support essential state programs and services.", according to the Alcoholic Beverages Division. However, when compared to the rest of the country, Iowa ranks 5 places lower than in consumption, in 42th place.<br>
+On the tax side of this story, Iowa's state and local tax revenues from alcohol generated -in 2022- "an all-time record of $150.1 million, an increase of $284,106 over the previous fiscal year. The sales growth generated record liquor net profits of $120.6 million, which will be used to support essential state programs and services", according to the Alcoholic Beverages Division. However, when compared to the rest of the country, Iowa ranks 5 places lower than in consumption, in 42th place.<br>
 <br>
 <iframe src="https://insights.arcgis.com/#/embed/4b198e5dff234c64a253568b122888d0" width=1050 height=1480 frameborder="0"></iframe>
 <br>
@@ -174,11 +174,18 @@ With these new cubes, the following gif shows the resulting forecast for the nex
 The first months after the final datapoint, it seem like the model outputs very low values at first, and then very high. But after a couple of months, the forecast seems more reasonable, expcet for the fact tha many of the counties get a negative forecast (a non allowed value for this variable).
 <br>
 
-While these forecasts do not seem to be very accurate, the experience of working with space time cubes was rewarding. I got a special interest in trying to use other forecasting tools available that also draw into the architecture of space time cubes.
 
-<h1>Conclusions</h1>
 
-The learning curve in understainding how time space cubes work, how to preprocess and sarrange the data and how to create them was a bit steeper than expected. But the concepts are really interesting, and there are plenty of other tools that use subes as input.
+<h1>Report conclusions</h1>
+1. A weaker than expected relationship betwen the health related metrics (excessive drinking and deaths by alcohol impaired driving, both relative and total) and alcohol sales in the state of Iowa was found.
+2. The weak relationship could be explained by multiple factors and an indepth analysis would is advisable. Potential explanations include: data limiations (specifically, more granular data for health indicators, and ideally more frequent (monthly)); data on alcohol consumption, not only alcohol sales; other indicators of potential effects of alcohol could help to validate the alcohol consumption data (domestic violence, hepathic diseases, among others)
+3. While the forecasts have limitations, it would be worth exploring other forecasting tools that also rely on the space time structures created to potentially get better results.
+4. State and local tax authorities may be interested in studying the optimal alcohol tax rate, as there may be space for increasing it without imapcting demand.
+
+
+<h1>Personal Conclusions</h1>
+
+The learning curve understinding how time space cubes work, how to preprocess and arrange the data and how to create them was a bit steeper than expected. But the concepts are really interesting, and there are plenty of other tools that use subes as input.
 <br>
 
 I also spent a great deal of time arranging the data to bring it into arcGIS. The original sales data contained over 40 million observations. I had to reduced that, losing some detail in the data, but gaining processing time once it was brought into arcGIS.
@@ -189,6 +196,9 @@ I thought it would be easier to intertwine arcGIS Insights and arcGIS Pro, but i
 
 I think I lost a bit of the narrative and structure of the project due to the time spent in preprocessing, learning the tools and trying to combine Insights and arcGISPro, and when I didnt find a strong relationship between alcohol sales and health related indicators. The original idea was to use the forecasts on alcohol sales (at the census tract level and with monthly observations for the past 6 years), determine a strong relationship with the health related variables (only available at the county level and once a year), and estimate the forecast of the health related variables. But I couldnt either get the complete forecast at the census tract level or establish a strong relationship between the variables.
 <br>
+
+While the forecasts do not seem to be very accurate, the experience of working with space time cubes was rewarding. I got a special interest in trying to use other forecasting tools available that also draw into the architecture of space time cubes.
+
 
 Another element that cause problems was that it took me a lot of time to create the cubes at the census tract level, because an input for the creation if the cubes is a unique identifier for each tract, which would normally be the FIPS code, however, this identifier must be numeric (less than 5 digits long), so I had to play with the creation of other columns to make this match possible. I think it was in this process where I lost 25% of the census tracts to generate their timespace cubes.
 
