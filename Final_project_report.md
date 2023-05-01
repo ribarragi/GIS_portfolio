@@ -53,31 +53,26 @@ What is the overall trend in sales over the past years?
 Are there any patterns?
 
 
-Alcohol sales and consumption are two components of Iowa's social and economic landscape. Not only does Iowa produces corn for industrial ethanol (4.5 billion gallons in 2022, contributing with over 25% to total U.S. ethanol production of ~17.5 billion gallons). But it is also home to many breweries, distilleries and wineries. This analysis excludes beer and wine.
+Alcohol sales and consumption are two components of Iowa's social and economic landscape. Not only does Iowa produces corn for industrial ethanol (4.5 billion gallons in 2022, contributing with over 25% to total U.S. ethanol production of ~17.5 billion gallons). But it is also home to many breweries, distilleries and wineries. This analysis excludes beer and wine.<br>
 
-In Iowa, people spend some 771 million dollars per year in alcoholic beverages, this is around 593.3 dollars per household per year. Iowa is the 37th state in terms of spending on alcohol for human consumption. 
+In Iowa, people spend some 771 million dollars per year in alcoholic beverages, this is around 593.3 dollars per household per year. Iowa is the 37th state in terms of spending on alcohol for human consumption.<br> 
 
-Another part of this story is Iowa's state and local tax revenues that come from alcohol. According to the Alcoholic Beverages Division, this industry generated in 2022  "an all-time record of $150.1 million, an increase of $284,106 over the previous fiscal year. The sales growth generated record liquor net profits of $120.6 million, which will be used to support essential state programs and services." However, when compared to the rest of the country, Iowa ranks 42th.
-
+Another part of this story is Iowa's state and local tax revenues that come from alcohol. According to the Alcoholic Beverages Division, this industry generated in 2022  "an all-time record of $150.1 million, an increase of $284,106 over the previous fiscal year. The sales growth generated record liquor net profits of $120.6 million, which will be used to support essential state programs and services." However, when compared to the rest of the country, Iowa ranks 42th.<br>
+<br>
 <iframe src="https://insights.arcgis.com/#/embed/4b198e5dff234c64a253568b122888d0" width=1050 height=1480 frameborder="0"></iframe>
 
-
+<br>
 Over time, Iowans have spent slightly more during recent months in alcohol. Both sales is dollars and in liters of alcohol show a somwehat increasing trend. 
-
+<br>
 <iframe src="https://insights.arcgis.com/#/embed/824adf10c1d740489e49f1c1e68040cc" width=1000  height=1020 frameborder="0"></iframe>
-
-
-
-
-
 <br>
 
 Sales of domestic vodka and whisky are the main beverages consumed in the state.
-
-<iframe src="https://insights.arcgis.com/#/embed/99f95e04cd9e4f1290ab788fafbb31c7" width=550 height=600 frameborder="0"></iframe>
-
+<br>
+<iframe class="center" src="https://insights.arcgis.com/#/embed/99f95e04cd9e4f1290ab788fafbb31c7" width=460 height=540 frameborder="0"></iframe>
+<br>
 Focusing on sales of alcohol over the state of Iowa, the follwowing raph shows that yearly sales follow a normal seasonal pattern, with annual increases in sales during June and December. 
-
+<br>
 
 
 If analyzed by county, volume sold concentrates in urban areas, specifically in counties with cities. Des Moines in Polk county, Cedar rapids in Linn county, Waterloo, Davenport and Iowa City in Black Hawk county, Scott county and Johnson county, accordingly. While there are adjustments to be made to some of the variable -and that are adressed in the analysis that follows-, the graphs and maps shown provide a good idea of what, when, how much and where do Iowans consume alcohol. 
