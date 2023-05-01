@@ -147,7 +147,7 @@ As explained in the layout, some observarions are red (negative) because missing
 <img class="center" src="project_assets/Layout_sum_volume.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
 <br>
 <br>
-Then, both set of cubes were used to forecast the sales of alcohol by census tract for the next 12 months (from July 2023 to August 2023). However, the results were not satisfactory, as many of the observations (approx. 25%) were lost due to a mismatch from the sales data with the census tracts.
+Then, both set of cubes were used to forecast the sales of alcohol by census tract for the next 12 months (from July 2022 to August 2023). However, the results were not satisfactory, as many of the observations (approx. 25%) were lost due to a mismatch from the sales data with the census tracts.
 
 The resulting forecasts (displayed next) have many missing tracts, some of them of great relevance, such as the one in the proximity of Des Moines, or Waterloo.
 
@@ -164,8 +164,9 @@ The same space time cubes were built: one for alcohol sales per capita and one f
 <br>
 <br>
 
-With these new cubes, the following forecast was produced for the next 12 months after the last observation:
+With these new cubes, the following forecast was produced for the next 12 months after the last observation (July 2022 to August 2023):
 
+<img class="center" src="project_assets/forecasts_county_level.gif" atl="Sapce time cubes for sales in USD"  width="750" height="420">
 
 
 Link to this site: <a href = "https://ribarragi.github.io/GIS_portfolio/Final_project_report.html" > link </a>
