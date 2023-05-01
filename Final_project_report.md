@@ -150,6 +150,7 @@ What factors should we consider to predict it?
 What factors turn out to be the most relevant for the predictions? -->
 We now enter the space time analysis of the sales and health data. One of the main reasons of this project was to gain experience on the creation and analysis of space time cubes; in this case, those were built for alcohol sales first at the census tract level. 
 <br>
+<br>
 
 Each cube contains layers, each layer represents an observation in a point in time, so piling up all the layers results in a variable over time. In this case, each layer represents a month. The following two layouts show the space time cubes for all the sales data at the census tract level. 
 As explained in the layout, some observarions are red (negative) because missing observations (no entries for a specific month for a specific number of stores in one tract) is imputed using the neighboring (in time) data. The first graph (in green) shows cubes for alcohol sales normalized by population and the second one (blue) shows alcohol sales in liters.
@@ -180,6 +181,7 @@ The same space time cubes were built: one for alcohol sales per capita and one f
 <br>
 
 With these new cubes, the following gif shows the resulting forecast for the next 12 months after the last observation (July 2022 to August 2023):
+<br>
 
 <img class="center" src="project_assets/forecasts_county_level.gif" atl="Sapce time cubes for sales in USD"  width="620" height="480">
 <br>
