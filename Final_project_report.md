@@ -70,7 +70,7 @@ Over time, although total alcohol sales (in USD) show a substantial increasing t
 When looking into the categories of alcohol that Iowans prefer, the top 2 products sold are domestic vodka and domestic whisky, wth combined sales of over 56 million dollars. 
 <br>
 <br>
-<iframe class="center" src="https://insights.arcgis.com/#/embed/99f95e04cd9e4f1290ab788fafbb31c7" width=460 height=540 frameborder="0"></iframe>
+<p align="center"><iframe src="https://insights.arcgis.com/#/embed/99f95e04cd9e4f1290ab788fafbb31c7" width=460 height=540 frameborder="0"></iframe></p>
 <br>
 Focusing on sales of alcohol over the state of Iowa, the follwowing raph shows that yearly sales follow a normal seasonal pattern, with annual increases in sales during June and December. 
 <br>
@@ -80,7 +80,7 @@ If analyzed by county, volume sold concentrates in urban areas, specifically in 
 
 
 
-<iframe src="https://insights.arcgis.com/#/embed/b4b6f275a2a444d1990493ddac181c71" width=700  height=650 frameborder="0"></iframe>
+<p align="center"><iframe src="https://insights.arcgis.com/#/embed/b4b6f275a2a444d1990493ddac181c71" width=700  height=650 frameborder="0"></iframe></p>
 
 
 
@@ -97,7 +97,7 @@ Is there any relationship with other health metrics? -->
 Another piece of information related to alcohol consumption has to do with health indicators. Spcieficially, with CDC's excess fdrinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regard, it is a bit surprising to note that....
 
 
-<iframe src="https://insights.arcgis.com/#/embed/ca30101f56f042ffaf90a8f38e407b6f" width=820 height=1080 frameborder="0"></iframe>
+<p align="center"><iframe src="https://insights.arcgis.com/#/embed/ca30101f56f042ffaf90a8f38e407b6f" width=820 height=1080 frameborder="0"></iframe></p>
 
 
 
