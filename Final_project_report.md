@@ -179,14 +179,19 @@ While these forecasts do not seem to be very accurate, the experience of working
 <h1>Conclusions</h1>
 
 The learning curve in understainding how time space cubes work, how to preprocess and sarrange the data and how to create them was a bit steeper than expected. But the concepts are really interesting, and there are plenty of other tools that use subes as input.
+<br>
 
 I also spent a great deal of time arranging the data to bring it into arcGIS. The original sales data contained over 40 million observations. I had to reduced that, losing some detail in the data, but gaining processing time once it was brought into arcGIS.
+<br>
 
 I thought it would be easier to intertwine arcGIS Insights and arcGIS Pro, but in the end I couldnt figure out how to share data between them, so Itreated them as separate components of the project.
+<br>
 
 I think I lost a bit of the narrative and structure of the project due to the time spent in preprocessing, learning the tools and trying to combine Insights and arcGISPro, and when I didnt find a strong relationship between alcohol sales and health related indicators. The original idea was to use the forecasts on alcohol sales (at the census tract level and with monthly observations for the past 6 years), determine a strong relationship with the health related variables (only available at the county level and once a year), and estimate the forecast of the health related variables. But I couldnt either get the complete forecast at the census tract level or establish a strong relationship between the variables.
+<br>
 
 Another element that cause problems was that it took me a lot of time to create the cubes at the census tract level, because an input for the creation if the cubes is a unique identifier for each tract, which would normally be the FIPS code, however, this identifier must be numeric (less than 5 digits long), so I had to play with the creation of other columns to make this match possible. I think it was in this process where I lost 25% of the census tracts to generate their timespace cubes.
+
 
 
 
@@ -195,40 +200,17 @@ Another element that cause problems was that it took me a lot of time to create 
 Link to this site: <a href = "https://ribarragi.github.io/GIS_portfolio/Final_project_report.html" > link </a>
 
 
-Sources:
+<h2>References and sources</h2>
 
-Tax revenues: Tax Policy Center (Urban Institute & Brookings Institution) https://www.taxpolicycenter.org/statistics/state-and-local-alcohol-tax-revenue<br>
-Time Series Forecasting (<a href="https://www.youtube.com/watch?v=gxoZ-vWUlh4">video</a>) <br>
-Space time cube creation (<a href="https://www.youtube.com/watch?v=1lpCJfKbYLg">video</a>) <br>
+- Tax revenues data from the Tax Policy Center (Urban Institute & Brookings Institution) --> <a href="https://www.taxpolicycenter.org/statistics/state-and-local-alcohol-tax-revenue">here</a><br>
+- Health related data at the county level, from CountyHealthRankings --> <a href="https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation">here</a><br>
+- Time Series Forecasting (<a href="https://www.youtube.com/watch?v=gxoZ-vWUlh4">video</a>) <br><br>
+- Space time cube creation (<a href="https://www.youtube.com/watch?v=1lpCJfKbYLg">video</a>) <br><br>
 
-<h1>DISCLAIMERS</h1>
-I wanted to create a story map, but after several attemps, I could not load scenes into my ArcGIS online account.<br>
-
-The main overall objective of this project was to explore and <b>EXPLOT?</b> the funcitonalities of time cubes for temporal data in ArcGIS<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Assets
+<h2>Assets</h2>
 
 Preprocessing code:
   - Cleaning and parsing alcohol sales data --> <a href="project_assets/Preprocess_code/Alcohol_data.ipynb">here</a><br>
   - Cleaning and parsing alcohol-health data --> <a href="project_assets/Preprocess_code/Data_parsing.ipynb">here</a><br>
-All data is available in the follwing drive folder
+
+All data is available in the follwing drive folder --> LINK
