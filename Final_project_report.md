@@ -122,6 +122,27 @@ Next, arcGIS was used to create a more refined analysis. For starters, the follo
 
 <img class="center" src="project_assets/Layout_sum_volume.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
 
+
+<h1> Descriptive analytics: graphs from ArcGIS Pro </h1>
+There is some trend in the consumption of alcohol. The middle and the end of the year usually have higher rates of consumption.
+
+<!-- Grafica de barras -->
+<img class="center" src="project_assets/AvgConsumtpion_percapita.png" atl="Sapce time cubes for sales in USD"  width="800" height="300">
+
+
+Graphs the volume of alcohol sold each month in Iowa during the past 5.5 years.No data for july-Dec 2022
+
+<img class="center" src="project_assets/Deaths_and_volume_per_county.png" atl="Sapce time cubes for sales in USD"  width="900" height="400">
+
+<!-- Grafica como de dona -->
+
+<img class="center" src="project_assets/Alcohol_sold_time.png" atl="Sapce time cubes for sales in USD"  width="900" height="400">
+
+
+
+
+
+
 <h1> Section 3. Relationship with health indicators </h1>
 Is there any relationship with CDC’s Alcohol dependency data?
 Is there any relationship with other health metrics?
@@ -138,7 +159,11 @@ Alcohol sales in Iowa ...
 he data consists of ...
 
 
-<img class="center" src="project_assets/forecasts_county_level.gif" atl="Sapce time cubes for sales in USD"  width="500" height="380">
+
+
+# MENCINOAR ALGO
+
+<img class="center" src="project_assets/Scatter_health_consumption.png" atl="Sapce time cubes for sales in USD"  width="900" height="560">
 
 
 
@@ -150,6 +175,10 @@ Sources:
 
 Tax revenues: Tax Policy Center (Urban Institute & Brookings Institution) https://www.taxpolicycenter.org/statistics/state-and-local-alcohol-tax-revenue
 
+
+Time Series Forecasting: https://www.youtube.com/watch?v=gxoZ-vWUlh4
+
+Space time cube creation: https://www.youtube.com/watch?v=1lpCJfKbYLg
 
 <h1>DISCLAIMERS</h1>
 I wanted to create a story map, but after several attemps, I could not load scenes into my ArcGIS online account.
