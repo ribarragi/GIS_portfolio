@@ -49,9 +49,9 @@ a:hover{
 <h1> Final project </h1>
 
 <h1> Section 1. Descriptive analytics </h1>
-What is the overall trend in sales over the past years?
-Are there any patterns?
-
+<!-- What is the overall trend in sales over the past years?<br>
+Are there any patterns?<br> -->
+<br>
 
 Alcohol sales and consumption are two components of Iowa's social and economic landscape. Not only does Iowa produces corn for industrial ethanol (4.5 billion gallons in 2022, contributing with over 25% to total U.S. ethanol production of ~17.5 billion gallons). But it is also home to many breweries, distilleries and wineries. This analysis excludes beer and wine.<br>
 
@@ -85,11 +85,12 @@ If analyzed by county, volume sold concentrates in urban areas, specifically in 
 
 
 <h1> Section2. Geo spatial descriptive analysis </h1>
-Which stores have the highest and lowest sales?
+<!-- Which stores have the highest and lowest sales?
 Is there a geographical pattern in the data?
 Are there any clusters or hotspots of high/low sales?
-What factors are contributing to these hot/cold spots?
-
+What factors are contributing to these hot/cold spots? -->
+<!-- Is there any relationship with CDC’s Alcohol dependency data?
+Is there any relationship with other health metrics? -->
 
 
 Another piece of information related to alcohol consumption has to do with health indicators. Spcieficially, with CDC's excess fdrinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regard, it is a bit surprising to note that....
@@ -118,7 +119,7 @@ Next, arcGIS was used to create a more refined analysis. For starters, the follo
 <img class="center" src="project_assets/Layout_sum_volume.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
 
 
-<h1> Descriptive analytics: graphs from ArcGIS Pro </h1>
+<!-- <h1> Descriptive analytics: graphs from ArcGIS Pro </h1> -->
 There is some trend in the consumption of alcohol. The middle and the end of the year usually have higher rates of consumption.
 
 <!-- Grafica de barras -->
@@ -138,11 +139,9 @@ Graphs the volume of alcohol sold each month in Iowa during the past 5.5 years.N
 
 
 
-<h1> Section 3. Relationship with health indicators </h1>
-Is there any relationship with CDC’s Alcohol dependency data?
-Is there any relationship with other health metrics?
 
-<h1> Section 4. Predict future sales </h1>
+
+<h1> Section 3. Space time cubes and predictions </h1>
 Is it possible to predict future sales of alcohol using ?
 What factors should we consider to predict it?
 What factors turn out to be the most relevant for the predictions?
