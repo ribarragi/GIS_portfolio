@@ -134,12 +134,17 @@ This graph now compares the proportion of deaths due to impaired driving with th
 <br>
 
 <img class="center" src="project_assets/Deaths_and_volume_per_county.png" atl="Sapce time cubes for sales in USD"  width="900" height="400">
+<br>
+<br>
 
 Lastly, the pairwise correlations between the consumption and the health variables confirms this surprisingly weak positive relationship: excessive drinking and deaths have even a slightly negative relationship with volume consumed per capita. A positive correlation is oserved between the total number of deaths by impaired driving and the volume consumed per capita.
+<br>
+<br>
 
 <img class="center" src="project_assets/Scatter_health_consumption.png" atl="Sapce time cubes for sales in USD"  width="900" height="560">
+<br>
 
-<2> Section 3. Space time cubes and predictions </h2>
+<h2> Section 3. Space time cubes and predictions </h2>
 <!-- Is it possible to predict future sales of alcohol using ?
 What factors should we consider to predict it?
 What factors turn out to be the most relevant for the predictions? -->
