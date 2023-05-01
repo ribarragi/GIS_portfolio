@@ -168,20 +168,20 @@ Link to this site: <a href = "https://ribarragi.github.io/GIS_portfolio/Final_pr
 
 Sources:
 
-Tax revenues: Tax Policy Center (Urban Institute & Brookings Institution) https://www.taxpolicycenter.org/statistics/state-and-local-alcohol-tax-revenue
-
-
-Time Series Forecasting: https://www.youtube.com/watch?v=gxoZ-vWUlh4
-
-Space time cube creation: https://www.youtube.com/watch?v=1lpCJfKbYLg
+Tax revenues: Tax Policy Center (Urban Institute & Brookings Institution) https://www.taxpolicycenter.org/statistics/state-and-local-alcohol-tax-revenue<br>
+Time Series Forecasting (<a href="https://www.youtube.com/watch?v=gxoZ-vWUlh4">video</a>) <br>
+Space time cube creation (<a href="https://www.youtube.com/watch?v=1lpCJfKbYLg">video</a>) <br>
 
 <h1>DISCLAIMERS</h1>
-I wanted to create a story map, but after several attemps, I could not load scenes into my ArcGIS online account.
+I wanted to create a story map, but after several attemps, I could not load scenes into my ArcGIS online account.<br>
 
-The main overall objective of this project was to explore and <b>EXPLOT?</b> the funcitonalities of time cubes for temporal data in ArcGIS
+The main overall objective of this project was to explore and <b>EXPLOT?</b> the funcitonalities of time cubes for temporal data in ArcGIS<br>
+
 
 
 # Assets
 
-All preprocessing code can be accessed and read --> <a href="project_assets/Preprocess_code">here</a>
+Preprocessing code:
+  - Cleaning and parsing alcohol sales data --> <a href="project_assets/Preprocess_code/Alcohol_data.ipynb">here</a><br>
+  - Cleaning and parsing alcohol-health data --> <a href="project_assets/Preprocess_code/Data_parsing.ipynb">here</a><br>
 All data is available in the follwing drive folder
