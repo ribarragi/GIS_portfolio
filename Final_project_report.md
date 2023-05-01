@@ -50,7 +50,7 @@ a:hover{
 <body>
 
 <h1><b> An Analysis and Forecast of Iowa's Alcohol Sales Implications </b>
-<p class="p2"> - A report for Iowa’s Alcoholic and Beverages Division - </p2></h1>
+<p class="p2"> - A report for Iowa’s Alcoholic and Beverages Division - </p></h1>
 
 <h2> Section 1. Descriptive analytics </h2>
 <!-- What is the overall trend in sales over the past years?<br>
@@ -65,8 +65,10 @@ On the tax side of this story, Iowa's state and local tax revenues from alcohol 
 <br>
 <iframe src="https://insights.arcgis.com/#/embed/4b198e5dff234c64a253568b122888d0" width=1050 height=1480 frameborder="0"></iframe>
 <br>
+<br>
 
-Over time, although total alcohol sales (in USD) show a substantial increasing trend, if we look at sales over time in liters, then the upward trend is not so evident. A potential explanation for this mismatch could be inflationary: as prices continue to go up, the total ticket for the same amount of alcohol goes up. Data then shows a modest increase in alcohol consumption in the state.
+Over time, although total alcohol sales (in USD) show a substantially increasing trend, if we look at sales over time in liters, then the upward trend is not so evident. A potential explanation for this mismatch could be inflationary: as prices continue to go up, the total ticket for the same amount of alcohol goes up. Data then shows a modest increase in alcohol consumption in the state.
+<br>
 <br>
 
 <iframe src="https://insights.arcgis.com/#/embed/824adf10c1d740489e49f1c1e68040cc" width=1000  height=1020 frameborder="0"></iframe>
@@ -102,8 +104,10 @@ Is there any relationship with other health metrics? -->
 
 A first approach to the spatial relationship between alcohol consumption and its effect on health-related variables is shown in the following two maps. Both include a kernel density of the volume of sales in liters. The fisrt map has an underlying choropleth layer with the rate of excess drinking (defined as the sum of binge and heavy drinking) in each county, while the second shows in blue the number of deaths in driving accidents related to alcohol impared driving as a percentage of total deaths in driving accidents. 
 <br>
+<br>
 
 Interestingly enough, some counties with a somewhat high concetration of alcohol sales do not register much excessive drinking (such as Cass and Shelby in the Southwest, or Ottumba and Farifield in the Southeast). 
+<br>
 <br>
 
 Some similar cases appear also in the case of deaths related to impaired driving, in counties such as Waterloo. I think a partial conclusion from this maps could be that we see an expected relationship in most of the cases, but some counties do not exhibit such patterns.
