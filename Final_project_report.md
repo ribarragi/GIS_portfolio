@@ -75,18 +75,20 @@ When looking into the categories of alcohol that Iowans prefer, the top 2 produc
 <br>
 <p align="center"><iframe src="https://insights.arcgis.com/#/embed/99f95e04cd9e4f1290ab788fafbb31c7" width=460 height=540 frameborder="0"></iframe></p>
 <br>
-Focusing on sales of alcohol over the state of Iowa, the follwowing raph shows that yearly sales follow a normal seasonal pattern, with annual increases in sales during June and December. 
+Focusing on sales of alcohol over the state of Iowa, the follwowing raph shows that yearly sales follow a normal seasonal pattern, with annual increases in sales during June and December. Perhps this pattern is better shown in the clock date graph that contains the volume of alcohol sold each month in Iowa during the past 5.5 years by month (there is no data for july-Dec 2022):
+<br>
 <br>
 
+
+<img class="center" src="project_assets/Alcohol_sold_time.png" atl="Sapce time cubes for sales in USD"  width="900" height="400">
+
 If analyzed by county, volume sold concentrates in urban areas, specifically in counties with cities. Des Moines in Polk county, Cedar rapids in Linn county, Waterloo, Davenport and Iowa City in Black Hawk county, Scott county and Johnson county, accordingly. While there are adjustments to be made to some of the variable -and that are adressed in the analysis that follows-, the graphs and maps shown provide a good idea of what, when, how much and where do Iowans consume alcohol. 
+<br>
 <br>
 
 <p align="center"><iframe src="https://insights.arcgis.com/#/embed/b4b6f275a2a444d1990493ddac181c71" width=700  height=650 frameborder="0"></iframe></p>
 
-
-
-
-<h1> Section2. Geo spatial descriptive analysis </h1>
+<h1> Section 2. Geo spatial descriptive analysis </h1>
 <!-- Which stores have the highest and lowest sales?
 Is there a geographical pattern in the data?
 Are there any clusters or hotspots of high/low sales?
@@ -94,28 +96,27 @@ What factors are contributing to these hot/cold spots? -->
 <!-- Is there any relationship with CDC’s Alcohol dependency data?
 Is there any relationship with other health metrics? -->
 
-A first approach to the relation between alcohol consumption and ots effect pn health related variables is shown in the floowing two maps. 
+A first approach to the spatial relationship between alcohol consumption and its effect on health-related variables is shown in the following two maps. Both include a kernel density of the volume of sales in liters. The fisrt map has an underlying choropleth layer with the rate of excess drinking in each county, while the second shows in blue the number of deaths in driving accidents related to alcohol impared driving as a percentage of total deaths in driving accidents. Interestingly enough, some counties with a somewhat high concetration of alcohol sales do not register much excessive drinking (such as Cass and Shelby in the Southwest, or Ottumba and Farifield in the Southeast). 
+<br>
+Some similar cases appear also in the case of deaths related to impaired driving, in counties such as Waterloo. I think a partial conclusion from this maps could be that we see an expected relationship in most of the cases, but some counties do not exhibit such patterns.
 <br>
 
 <p align="center"><iframe src="https://insights.arcgis.com/#/embed/ca30101f56f042ffaf90a8f38e407b6f" width=820 height=1080 frameborder="0"></iframe></p>
 <br>
 
 
-
-
-Next, arcGIS was used to create a more refined analysis. 
-For starters, the variable consumption over population was created. This variable takes the amount of liters sold and divides it by the number of people over 21 years old, who live in an area of 4 miles around the store. This data is available for every store selling alcohol in Iowa.
+Next, arcGIS was used to create a more refined analysis. For starters, the variable consumption over population was created. This variable takes the amount of liters sold and divides it by the number of people over 21 years old, who live in an area of 4 miles around the store. This data is available for every store selling alcohol in Iowa.
 <br>
 
-In the following graph, it can be seen that the average consumption of alcohol lies around 1.6-1.7 liters per month, and appears to have a pretty stable pattern over the last six years.
+The next graph shows that the average consumption of alcohol lies around 1.6-1.7 liters per month, and appears to have a pretty stable pattern over the last six years.
 <br>
 
 <img class="center" src="project_assets/AvgConsumtpion_percapita.png" atl="Sapce time cubes for sales in USD"  width="800" height="300">
 <br>
 
 
- the following graph focuses on data from alcohol stores in Iowa, it displays . that When focused on the volume of alcohol sold per person over 21 years old. 
-<br>
+<img class="center" src="project_assets/Deaths_and_volume_per_county.png" atl="Sapce time cubes for sales in USD"  width="900" height="400">
+
 
 This is how this variable looks like: on average, 
 
@@ -140,13 +141,11 @@ Another piece of information related to alcohol consumption has to do with healt
 <img class="center" src="project_assets/Layout_sum_volume.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
 
 
-Graphs the volume of alcohol sold each month in Iowa during the past 5.5 years.No data for july-Dec 2022
 
-<img class="center" src="project_assets/Deaths_and_volume_per_county.png" atl="Sapce time cubes for sales in USD"  width="900" height="400">
 
 <!-- Grafica como de dona -->
 
-<img class="center" src="project_assets/Alcohol_sold_time.png" atl="Sapce time cubes for sales in USD"  width="900" height="400">
+
 
 
 
