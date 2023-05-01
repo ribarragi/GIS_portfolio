@@ -223,19 +223,17 @@ The first months after the final datapoint, it seem like the model outputs very 
 - While the forecasts do not seem to be very accurate, the experience of working with space time cubes was rewarding. I got a special interest in trying to use other forecasting tools available that also draw into the architecture of space time cubes. 
 <br>
 
-- Another element that cause problems was that it took me a lot of time to create the cubes at the census tract level, because an input for the creation if the cubes is a unique identifier for each tract, which would normally be the FIPS code, however, this identifier must be numeric (less than 5 digits long), so I had to play with the creation of other columns to make this match possible. I think it was in this process where I lost 25% of the census tracts to generate their timespace cubes.
+- Another element that cause problems was that it took me a lot of time to create the cubes at the census tract level, because an input for the creation if the cubes is a unique identifier for each tract, which would normally be the FIPS code, however, this identifier must be numeric (less than 5 digits long), so I had to play with the creation of other columns to make this match possible. I think it was in this process where I lost 25% of the census tracts to generate their timespace cubes.<br>
 
-
-
-Link to this site: <a href = "https://ribarragi.github.io/GIS_portfolio/Final_project_report.html" > link </a>
+<!-- Link to this site: <a href = "https://ribarragi.github.io/GIS_portfolio/Final_project_report.html" > link </a> -->
 
 
 <h2>References and sources</h2>
 
 - Tax revenues data from the Tax Policy Center (Urban Institute & Brookings Institution) --> <a href="https://www.taxpolicycenter.org/statistics/state-and-local-alcohol-tax-revenue">here</a><br>
 - Health related data at the county level, from CountyHealthRankings --> <a href="https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation">here</a><br>
-- Time Series Forecasting (<a href="https://www.youtube.com/watch?v=gxoZ-vWUlh4">video</a>) <br><br>
-- Space time cube creation (<a href="https://www.youtube.com/watch?v=1lpCJfKbYLg">video</a>) <br><br>
+- Time Series Forecasting (<a href="https://www.youtube.com/watch?v=gxoZ-vWUlh4">video</a>) <br>
+- Space time cube creation (<a href="https://www.youtube.com/watch?v=1lpCJfKbYLg">video</a>) <br>
 
 <h2>Assets</h2>
 
@@ -243,5 +241,5 @@ Preprocessing code:
   - Cleaning and parsing alcohol sales data --> <a href="project_assets/Preprocess_code/Alcohol_data.ipynb">here</a><br>
   - Cleaning and parsing alcohol-health data --> <a href="project_assets/Preprocess_code/Data_parsing.ipynb">here</a><br>
 
-All data is available in the follwing drive folder --> LINK
-Project package --> LINK
+All data is available in the follwing drive folder --> <a href="https://drive.google.com/drive/folders/1LQ5_De9hchT6-hfh2JM3musdBjtVgLn2?usp=share_link">here</a><br>
+Project package --> <a href="https://drive.google.com/drive/folders/1LQ5_De9hchT6-hfh2JM3musdBjtVgLn2?usp=share_link">here</a>
