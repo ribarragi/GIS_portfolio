@@ -96,7 +96,7 @@ What factors are contributing to these hot/cold spots? -->
 <!-- Is there any relationship with CDC’s Alcohol dependency data?
 Is there any relationship with other health metrics? -->
 
-A first approach to the spatial relationship between alcohol consumption and its effect on health-related variables is shown in the following two maps. Both include a kernel density of the volume of sales in liters. The fisrt map has an underlying choropleth layer with the rate of excess drinking in each county, while the second shows in blue the number of deaths in driving accidents related to alcohol impared driving as a percentage of total deaths in driving accidents. 
+A first approach to the spatial relationship between alcohol consumption and its effect on health-related variables is shown in the following two maps. Both include a kernel density of the volume of sales in liters. The fisrt map has an underlying choropleth layer with the rate of excess drinking (defined as the sum of binge and heavy drinking) in each county, while the second shows in blue the number of deaths in driving accidents related to alcohol impared driving as a percentage of total deaths in driving accidents. 
 <br>
 
 Interestingly enough, some counties with a somewhat high concetration of alcohol sales do not register much excessive drinking (such as Cass and Shelby in the Southwest, or Ottumba and Farifield in the Southeast). 
@@ -117,63 +117,42 @@ The next graph shows that the average consumption of alcohol lies around 1.6-1.7
 <br>
 <br>
 
+<img class="center" src="project_assets/AvgConsumtpion_percapita.png" atl="Sapce time cubes for sales in USD"  width="800" height="300">
+<br>
+
 This graph now compares the proportion of deaths due to impaired driving with the volume sold per capit per county. It is surprising not to find a stronger a clearer positive relationship between both variables. 
 <br>
 <br>
 
-<img class="center" src="project_assets/AvgConsumtpion_percapita.png" atl="Sapce time cubes for sales in USD"  width="800" height="300">
-<br>
-
-
 <img class="center" src="project_assets/Deaths_and_volume_per_county.png" atl="Sapce time cubes for sales in USD"  width="900" height="400">
 
+Lastly, the pairwise correlations between the consumption and the health variables confirms this surprisingly weak positive relationship: excessive drinking and deaths have even a slightly negative relationship with volume consumed per capita. A positive correlation is oserved between the total number of deaths by impaired driving and the volume consumed per capita.
+
+<img class="center" src="project_assets/Scatter_health_consumption.png" atl="Sapce time cubes for sales in USD"  width="900" height="560">
 
 <h1> Section 3. Space time cubes and predictions </h1>
 <!-- Is it possible to predict future sales of alcohol using ?
 What factors should we consider to predict it?
 What factors turn out to be the most relevant for the predictions? -->
-
+We now enter the space time analysis of the sales and health data. One of the main reasons of this project was to gain experience on the creation and analysis of space time cubes; in this case, those were built for alcohol sales first at the census tract level. 
 <br>
 
-There is some trend in the consumption of alcohol. The middle and the end of the year usually have higher rates of consumption.
-<br>
-
-
-
-Another piece of information related to alcohol consumption has to do with health indicators. Spcieficially, with CDC's excess drinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regard, it is a bit surprising to note that....
-<br>
-
-
+Each cube contains layers, each layer represents an observation in a point in time, so piling up all the layers results in a variable over time. In this case, each layer represents a month. The following two layouts show the space time cubes for all the sales data at the census tract level. 
+As explained in the layout, some observarions are red (negative) because missing observations (no entries for a specific month for a specific number of stores in one tract) is imputed using the neighboring (in time) data. The first graph (in green) shows cubes for alcohol sales normalized by population and the second one (blue) shows alcohol sales in liters.
 
 <img class="center" src="project_assets/Layout_volume_pop_tract.png" atl="Sapce time cubes for volume sold"  width="750" height="420">
 <br>
-
-### Comments here
-
+<br>
 
 <img class="center" src="project_assets/Layout_sum_volume.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
+<br>
+<br>
+Then, both set of cubes were used to forecast the sales of alcohol by census tract for the next 12 months (from July 2023 to August 2023). However, the results were not satisfactory, as many of the observations (approx. 25%) were lost due to a mismatch from the sales data with the census tracts.
 
+The resulting forecasts (displayed next) have many missing tracts, some of them of great relevance, such as the one in the proximity of Des Moines, or...
 
+<img class="center" src="project_assets/project_assets/Forecast_tract_level.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
 
-
-<!-- Grafica como de dona -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# MENCINOAR ALGO
-
-<img class="center" src="project_assets/Scatter_health_consumption.png" atl="Sapce time cubes for sales in USD"  width="900" height="560">
 
 
 
