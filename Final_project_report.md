@@ -164,6 +164,7 @@ The same space time cubes were built: one for alcohol sales per capita and one f
 <br>
 <br>
 
+With these new cubes, the following forecast was produced for the next 12 months after the last observation:
 
 
 
