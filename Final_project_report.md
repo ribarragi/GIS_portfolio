@@ -211,7 +211,7 @@ The first months after the final datapoint, it seem like the model outputs very 
 - The learning curve understinding how time space cubes work, how to preprocess and arrange the data and how to create them was a bit steeper than expected. But the concepts are really interesting, and there are plenty of other tools that use subes as input.
 <br>
 
-- I also spent a great deal of time arranging the data to bring it into arcGIS. The original sales data contained over 40 million observations. I had to reduced that, losing some detail in the data, but gaining processing time once it was brought into arcGIS.
+- I also spent a great deal of time arranging the data to bring it into arcGIS. The original sales data contained over 15 million observations. I had to reduced that (to some 1.8 million) by grouping, losing some detail in the data, but gaining processing time once it was brought into arcGIS.
 <br>
 
 - I thought it would be easier to intertwine arcGIS Insights and arcGIS Pro, but in the end I couldnt figure out how to share data between them, so Itreated them as separate components of the project.
