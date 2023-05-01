@@ -21,6 +21,7 @@ Additionally, one of the aspects that I like less about GIS its click-intensive 
 
 3. Project 3. [Cyclist accidents in Ottawa](https://ribarragi.github.io/GIS_portfolio/Ottawa_cycling_accidents.html)
 
+4. Final project. [An Analysis and Forecast of Iowa's Alcohol Sales Implications](https://ribarragi.github.io/GIS_portfolio/Final_project_report.html)
 
 
 
