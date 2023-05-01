@@ -149,10 +149,19 @@ As explained in the layout, some observarions are red (negative) because missing
 <br>
 Then, both set of cubes were used to forecast the sales of alcohol by census tract for the next 12 months (from July 2023 to August 2023). However, the results were not satisfactory, as many of the observations (approx. 25%) were lost due to a mismatch from the sales data with the census tracts.
 
-The resulting forecasts (displayed next) have many missing tracts, some of them of great relevance, such as the one in the proximity of Des Moines, or...
+The resulting forecasts (displayed next) have many missing tracts, some of them of great relevance, such as the one in the proximity of Des Moines, or Waterloo.
 
-<img class="center" src="project_assets/project_assets/Forecast_tract_level.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
+<img class="center" src="project_assets/Forecast_tract_level.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
 
+After these discouraging results, I decided to do it at the county level. While this implies losing detail on the data, it would allow me to have a complete forecast to evaluate.
+The same space time cubes were built: one for alcohol sales per capita and one for total volume sold, but now aggregated at the county level.
+<br>
+
+<img class="center" src="project_assets/Layout_volume_pop_county.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
+<br>
+<img class="center" src="project_assets/Layout_volume_county.png" atl="Sapce time cubes for sales in USD"  width="750" height="420">
+<br>
+<br>
 
 
 
