@@ -5,6 +5,8 @@ Welcome! This is my portfolio for Advanced GIS class
 ## About me
 I’m Ricardo Ibarra-Gil, currently a Graduate student of Masters in Public Policy and Managemenet - Data Analytics at Carnegie Mellon University. My interests include the use of data to analyze consumer behavior.  
 
+I have added my portfolio site [here](https://ribarragi.github.io/)
+
 ## What I hope to learn
 I hope to learn on how to use GIS collaboratively: creating, editing and mantaining data in a team. 
 
@@ -28,6 +30,6 @@ Additionally, one of the aspects that I like less about GIS its click-intensive 
 
 
 
-Link to this page [here](https://ribarragi.github.io/GIS_portfolio/)
+<!-- Link to this page [here](https://ribarragi.github.io/GIS_portfolio/) -->
 
 
