@@ -93,7 +93,20 @@ Are there any clusters or hotspots of high/low sales?
 What factors are contributing to these hot/cold spots? -->
 <!-- Is there any relationship with CDC’s Alcohol dependency data?
 Is there any relationship with other health metrics? -->
-Next, arcGIS was used to create a more refined analysis. For starters, the following graph focuses on data from alcohol stores in Iowa, it displays the amount of liters sold over the numeber of people over 21 years old who live in an area of 4 miles arlund the store. that When focused on the volume of alcohol sold per person over 21 years old. 
+Next, arcGIS was used to create a more refined analysis. 
+For starters, the variable consumption over population was created. This variable takes the amount of liters sold and divides it by the number of people over 21 years old, who live in an area of 4 miles around the store. This data is available for every store selling alcohol in Iowa.
+<br>
+
+In the following graph, it can be seen that the average consumption of alcohol lies around 1.6-1.7 liters per month, and appears to have a pretty stable pattern over the last six years.
+<br>
+
+<img class="center" src="project_assets/AvgConsumtpion_percapita.png" atl="Sapce time cubes for sales in USD"  width="800" height="300">
+<br>
+
+
+
+
+ the following graph focuses on data from alcohol stores in Iowa, it displays . that When focused on the volume of alcohol sold per person over 21 years old. 
 <br>
 
 This is how this variable looks like: on average, 
@@ -103,8 +116,7 @@ This is how this variable looks like: on average,
 There is some trend in the consumption of alcohol. The middle and the end of the year usually have higher rates of consumption.
 <br>
 
-<img class="center" src="project_assets/AvgConsumtpion_percapita.png" atl="Sapce time cubes for sales in USD"  width="800" height="300">
-<br>
+
 
 Another piece of information related to alcohol consumption has to do with health indicators. Spcieficially, with CDC's excess drinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regard, it is a bit surprising to note that....
 <br>
