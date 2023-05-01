@@ -93,6 +93,16 @@ Are there any clusters or hotspots of high/low sales?
 What factors are contributing to these hot/cold spots? -->
 <!-- Is there any relationship with CDC’s Alcohol dependency data?
 Is there any relationship with other health metrics? -->
+
+A first approach to the relation between alcohol consumption and ots effect pn health related variables is shown in the floowing two maps. 
+<br>
+
+<p align="center"><iframe src="https://insights.arcgis.com/#/embed/ca30101f56f042ffaf90a8f38e407b6f" width=820 height=1080 frameborder="0"></iframe></p>
+<br>
+
+
+
+
 Next, arcGIS was used to create a more refined analysis. 
 For starters, the variable consumption over population was created. This variable takes the amount of liters sold and divides it by the number of people over 21 years old, who live in an area of 4 miles around the store. This data is available for every store selling alcohol in Iowa.
 <br>
@@ -102,8 +112,6 @@ In the following graph, it can be seen that the average consumption of alcohol l
 
 <img class="center" src="project_assets/AvgConsumtpion_percapita.png" atl="Sapce time cubes for sales in USD"  width="800" height="300">
 <br>
-
-
 
 
  the following graph focuses on data from alcohol stores in Iowa, it displays . that When focused on the volume of alcohol sold per person over 21 years old. 
@@ -121,8 +129,7 @@ There is some trend in the consumption of alcohol. The middle and the end of the
 Another piece of information related to alcohol consumption has to do with health indicators. Spcieficially, with CDC's excess drinking (defined as...) and fatalities caused by driving accidents due to alcohol impairement. In this regard, it is a bit surprising to note that....
 <br>
 
-<p align="center"><iframe src="https://insights.arcgis.com/#/embed/ca30101f56f042ffaf90a8f38e407b6f" width=820 height=1080 frameborder="0"></iframe></p>
-<br>
+
 
 <img class="center" src="project_assets/Layout_volume_pop_tract.png" atl="Sapce time cubes for volume sold"  width="750" height="420">
 <br>
